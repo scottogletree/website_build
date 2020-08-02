@@ -17,7 +17,7 @@ email: ""
 interests:
 - Social determinats of health
 - Data science
-- Space adn place
+- Space and place
 organizations:
 - name: North Carolina State University
   url: ""
