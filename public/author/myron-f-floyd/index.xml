@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myron F Floyd | S Ogletree</title>
+    <link>/author/myron-f-floyd/</link>
+      <atom:link href="/author/myron-f-floyd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Myron F Floyd</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <title>Myron F Floyd</title>
+      <link>/author/myron-f-floyd/</link>
+    </image>
+    
+    <item>
+      <title>Effects of Crime Type and Location on Park Use Behavior</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
