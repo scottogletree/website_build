@@ -17,7 +17,7 @@ links:
 #projects:
 #- internal-project
 publication: In *The Conversation*
-publication_short: In *STC*
+publication_short: In *The Conversation*
 publication_types:
 - "4"
 publishDate: "2019-06-25T00:00:00Z"
