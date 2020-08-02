@@ -15,7 +15,7 @@ education:
     year: 1995
 email: ""
 interests:
-- Social determinants of health
+- Envoronmental and social determinants of health
 - Data science
 - Space and place
 organizations:
@@ -28,13 +28,16 @@ social:
 #  link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/scottogletree
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pImf5H4AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/ogletrees
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2607-6017
 superuser: true
 title: Scott Ogletree
 user_groups:

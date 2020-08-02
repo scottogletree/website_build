@@ -25,20 +25,31 @@ date_format = "Jan 2006"
   date_start = "2019-09-10"
   date_end = ""
   description = """
-  Responsibilities include:
+  Coordinate dissemination of research project outcomes
   
-  * Analysing
-  * Modelling
-  * Deploying
+  Data analysis
+  
+  Co-instruct course on Analysis and Evaluation in PRTM
+  
+  Lead analysis and writing of research
   """
 
 [[experience]]
-  title = "Data Manager"
-  company = "University X"
+  title = "Researcher"
+  company = "Park Solutions Lab - Clemson University"
   company_url = ""
-  location = "California"
-  date_start = "2016-05-16"
+  location = "South Carolina"
+  date_start = "2019-05-16"
   date_end = "2019-08-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Data management, and analysis of mobile device location data for project on visitor use managemetn in national parks"""
+  
+[[experience]]
+  title = "Data Manager"
+  company = "Clemson University"
+  company_url = ""
+  location = "South Carolina"
+  date_start = "2016-05-16"
+  date_end = "2019-05-16"
+  description = """Data collection, management, and analysis for project on conservation easements in the USA. """
 
 +++
