@@ -123,6 +123,21 @@
   </url>
   
   <url>
+    <loc>/publication-type/4/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conference-paper/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lincoln-r-larson/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -209,11 +224,6 @@
   
   <url>
     <loc>/tag/disadvantage/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lincoln-r-larson/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -305,21 +315,6 @@
   <url>
     <loc>/tag/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/robert-ford/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
