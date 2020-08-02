@@ -1,47 +1,45 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD 
+    institution: Clemson University
+    year: 2019
+  - course: Master of Landscape Architecture
+    institution: Clemson University
+    year: 2011
+  - course: BSc in Education
+    institution: University of Georgia
+    year: 1995
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social determinats of health
+- Data science
+- Space adn place
 organizations:
-- name: Stanford University
+- name: North Carolina State University
   url: ""
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Scholar
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=pImf5H4AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ogletrees
 superuser: true
-title: Nelson Bighetti
+title: Scott Ogletree
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Scott is a postdoctoral researcher interested in connections between human well-being and the environment. He researches these connections using spatial and statistical tools to better understand how the natural world impacts people.
