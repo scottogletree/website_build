@@ -15,7 +15,7 @@ education:
     year: 1995
 email: ""
 interests:
-- Envoronmental and social determinants of health
+- Environmental and social determinants of health
 - Data science
 - Space and place
 organizations:
