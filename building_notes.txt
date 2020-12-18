@@ -1,0 +1,13 @@
+2020-12-17
+
+Building a website with Rmarkdown
+
+I have built some of it up already.
+
+How to update it all?
+
+From the blowdown book:
+If you have no experience in publishing websites before, just log in using your GitHub account or other accounts, drag the public/ folder built by blogdown for your website to the Netlify page, and your website will be online in a few seconds with a random subdomain name
+
+References:
+https://annielyu.com/2020/01/12/blogdown-website/
