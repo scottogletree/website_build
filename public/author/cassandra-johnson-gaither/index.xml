@@ -5,7 +5,7 @@
     <link>/author/cassandra-johnson-gaither/</link>
       <atom:link href="/author/cassandra-johnson-gaither/index.xml" rel="self" type="application/rss+xml" />
     <description>Cassandra Johnson Gaither</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Cassandra Johnson Gaither</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Tree Canopy Coverage Predicts Lower Conduct Problem Severity in Children with ASD</title>
+      <link>/publication/autism_2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/autism_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gray space and green space proximity associated with higher anxiety in youth with autism</title>
-      <link>/publication/preprint/</link>
+      <link>/publication/autism_2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
+      <guid>/publication/autism_2018/</guid>
       <description></description>
     </item>
     

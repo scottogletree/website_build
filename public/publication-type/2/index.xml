@@ -5,7 +5,7 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,34 +13,58 @@
     </image>
     
     <item>
+      <title>Parental Preference for Park Attributes Related to Children’s Use of Parks in Low-Income, Racial/Ethnic Diverse Neighborhoods</title>
+      <link>/publication/parent_pref/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/parent_pref/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effects of Crime Type and Location on Park Use Behavior</title>
-      <link>/publication/journal-article/</link>
+      <link>/publication/crime_parks/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>/publication/crime_parks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree Canopy Coverage Predicts Lower Conduct Problem Severity in Children with ASD</title>
+      <link>/publication/autism_2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/autism_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A framework for mapping cultural resources in landscape conservation planning</title>
-      <link>/publication/pub1/</link>
+      <link>/publication/antarctic/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/pub1/</guid>
+      <guid>/publication/antarctic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gray space and green space proximity associated with higher anxiety in youth with autism</title>
-      <link>/publication/preprint/</link>
+      <link>/publication/autism_2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
+      <guid>/publication/autism_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Different Views From The 606: Examining the Impacts of an Urban Greenway on Crime in Chicago</title>
-      <link>/publication/pub2/</link>
+      <link>/publication/606_crime/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/pub2/</guid>
+      <guid>/publication/606_crime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can heritage resources highlight changes to the natural environment caused by climate change? Evidence from the Antarctic tourism experience</title>
+      <link>/publication/cultural_resources/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/cultural_resources/</guid>
       <description></description>
     </item>
     

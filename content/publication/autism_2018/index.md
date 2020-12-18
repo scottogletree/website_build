@@ -33,13 +33,13 @@ tags:
 - Greenspace
 - Autism
 title: "Gray space and green space proximity associated with higher anxiety in youth with autism"
-url_code: '#'
-url_dataset: '#'
-url_pdf: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_pdf: ''
+url_poster: ''
 url_project: ""
 url_slides: ""
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 ---
 

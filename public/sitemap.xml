@@ -33,17 +33,92 @@
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>/project/parc/</loc>
+    <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/alex-sinykin/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>/project/</loc>
+    <lastmod>2020-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/claudia-alberico/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-aaron-hipp/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jing-huei-huang/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/myron-f-floyd/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/oriol-marquet/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/parent_pref/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/parents/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/parks/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/physical-activity/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/scott-ogletree/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alex-sinykin/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,17 +128,17 @@
   </url>
   
   <url>
+    <loc>/project/soparc_combine/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/crime/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/j.-aaron-hipp/</loc>
+    <loc>/publication/crime_parks/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,43 +148,63 @@
   </url>
   
   <url>
-    <loc>/author/myron-f-floyd/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>/author/andrew-gardner/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/oriol-marquet/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>/tag/autism/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/parks/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>/author/brian-barger/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/physical-activity/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>/author/cassandra-johnson-gaither/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>/author/eric-moody/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>/tag/greenspace/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/scott-ogletree/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>/author/jody-marie-bartz/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>/author/julia-torquati/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lincoln-r-larson/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/steven-rosenberg/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/tree-canopy/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/autism_2020/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -128,12 +223,7 @@
   </url>
   
   <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lincoln-r-larson/</loc>
+    <loc>/publication/conversation/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,7 +233,7 @@
   </url>
   
   <url>
-    <loc>/publication/pub1/</loc>
+    <loc>/publication/antarctic/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,57 +283,12 @@
   </url>
   
   <url>
-    <loc>/author/andrew-gardner/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/anne-schutte/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/autism/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/brian-barger/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/cassandra-johnson-gaither/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/eric-moody/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/greenspace/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jody-marie-bartz/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/julia-torquati/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/steven-rosenberg/</loc>
+    <loc>/publication/autism_2018/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,7 +303,7 @@
   </url>
   
   <url>
-    <loc>/publication/pub2/</loc>
+    <loc>/publication/606_crime/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -289,11 +334,6 @@
   
   <url>
     <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -330,6 +370,36 @@
   <url>
     <loc>/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/antarctica/</loc>
+    <lastmod>2015-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cultural_resources/</loc>
+    <lastmod>2015-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/climate-change/</loc>
+    <lastmod>2015-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cultural-heritage/</loc>
+    <lastmod>2015-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gregory-p-ramshaw/</loc>
+    <lastmod>2015-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kathleen-e-krafte/</loc>
+    <lastmod>2015-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
