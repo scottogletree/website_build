@@ -8,10 +8,10 @@ subtitle: 'Analysis of conference twitter for ISSRM2018'
 summary: Analysis of conference twitter for ISSRM2018.
 tags:
 - Social media
-title: Conference twitter at #ISSRM2018
+title: Conference twitter at ISSRM2018
 ---
 
-I recently attended the International Symposium on Society and Resource Management (ISSRM) in Snowbird, Utah. It was a great conference in a great location!
+I attended the International Symposium on Society and Resource Management (ISSRM) in Snowbird, Utah. It was a great conference in a great location!
 
 To look at one aspect of the event I collected tweets that used the conference hashtag - #ISSRM2018. Here's what I found.
 

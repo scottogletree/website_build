@@ -7,7 +7,9 @@ I have built some of it up already.
 How to update it all?
 ----------------------------------------
 Once you change some of the markdown files, then rebuild the site
-
+blogdown::build_site()
+You can test it locally with - 
+blogdown::serve_site(), but remember to stop the serve when done blogdown::stop_server()
 ----------------------------------------
 The layout of the page is in website_build/content/home
 Each markdown file is a section
@@ -25,7 +27,12 @@ The copy at the top of the page, Interests, links
 
 Setting Google Analytics:
 
+----------------------------------------
+Posts
+Posts can be stand alone or in folders.
 
+
+----------------------------------------
 The menus at the top of the page are in website_build/config/_default/menus.toml
 
 From the blowdown book:

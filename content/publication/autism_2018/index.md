@@ -27,19 +27,19 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-09-01T00:00:00Z"
-slides: example
+# slides: example
 summary: Children with ASD might experience the stress-reducing benefits of nature differently than their typically developing peers. Both impervious surface coverage and tree canopy coverage increased the risk of severe anxiety in youth with autism, but not CSHCN or typical children.
 tags:
 - Greenspace
 - Autism
 title: "Gray space and green space proximity associated with higher anxiety in youth with autism"
-url_code: ''
-url_dataset: ''
-url_pdf: ''
-url_poster: ''
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ''
-url_video: ''
+url_source: ""
+url_video: ""
 ---
 

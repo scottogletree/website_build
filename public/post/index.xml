@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,52 +13,21 @@
     </image>
     
     <item>
-      <title>Listservs of interest</title>
-      <link>/post/2017-03-09-listservs-of-interest/</link>
-      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2017-03-09-listservs-of-interest/</guid>
-      <description>&lt;p&gt;These are some listservs that might be of interest to people at the intersection of social and ecological fields. I would have liked to know about them earlier in my PhD journey so here they are for others.&lt;/p&gt;
-&lt;h3 id=&#34;ecologhttpslistservumdeduarchivesecolog-lhtml&#34;&gt;
-&lt;a href=&#34;https://listserv.umd.edu/archives/ecolog-l.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECOLOG&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;This is an ecology focused listserv but will have opportunities and announcements that sometimes cross over fields.&lt;/p&gt;
-&lt;h3 id=&#34;usialehttplistservurieducgi-binwaa0usiale-l&#34;&gt;
-&lt;a href=&#34;http://listserv.uri.edu/cgi-bin/wa?A0=USIALE-L&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USIALE&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;This is the discussion board for the US chapter of the International Association for Landscape Ecology (IALE).&lt;/p&gt;
-&lt;h3 id=&#34;recreation-ecologyhttplistsncsueducgi-bindigestlistrececol&#34;&gt;
-&lt;a href=&#34;http://lists.ncsu.edu/cgi-bin/digest?list=rececol&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recreation Ecology&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;This is the listserv for the Recration Ecology Research Network.&lt;/p&gt;
-&lt;h3 id=&#34;earth-sciences-job-boardhttpmailmanucaredupipermailes_jobs_net&#34;&gt;
-&lt;a href=&#34;http://mailman.ucar.edu/pipermail/es_jobs_net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Earth Sciences Job Board&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Looks to be just opportunities in the earth sciences, that&amp;rsquo;s helpful.&lt;/p&gt;
-&lt;h3 id=&#34;society-for-conservation-gishttpswwwscgisorgcontentdiscussionslistserv-faq&#34;&gt;
-&lt;a href=&#34;https://www.scgis.org/content/discussions/listserv-faq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Society for Conservation GIS&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;You have to sign up for this one.&lt;/p&gt;
-&lt;h3 id=&#34;asu-gishttpslistsasueducgi-binwaa0asugis-l&#34;&gt;
-&lt;a href=&#34;https://lists.asu.edu/cgi-bin/wa?A0=ASUGIS-L&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASU GIS&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;This is out of Arizona State, but has opportunities in the region.&lt;/p&gt;
-&lt;h3 id=&#34;sprenethttpslistservugaeducgi-binwaa0sprenet&#34;&gt;
-&lt;a href=&#34;https://listserv.uga.edu/cgi-bin/wa?A0=sprenet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPRENET&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;You have to login to this one. SPRENET is popular in the recreation field.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;(I&amp;rsquo;ll add more as I find them)&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Analysis of Google Earth Engine forum posts</title>
-      <link>/post/2019-02-17-earth-engine_forum_analysis/</link>
+      <link>/post/earth_engine_analysis/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019-02-17-earth-engine_forum_analysis/</guid>
-      <description>&lt;p&gt;I recently did an analysis of the forum post titles that come from the help forum for Google Earth Engine.&lt;/p&gt;
+      <guid>/post/earth_engine_analysis/</guid>
+      <description>&lt;p&gt;I did an analysis of the forum post titles that come from the help forum for Google Earth Engine.&lt;/p&gt;
 &lt;p&gt;You can find the analysis and code here &lt;a href=&#34;https://ogletrees.github.io/GEE_post_analysis/&#34; target=&#34;_blank&#34;&gt;GEE_post_analysis&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Conference twitter at</title>
+      <title>Conference twitter at ISSRM2018</title>
       <link>/post/issrm_twitter/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       <guid>/post/issrm_twitter/</guid>
-      <description>&lt;p&gt;I recently attended the International Symposium on Society and Resource Management (ISSRM) in Snowbird, Utah. It was a great conference in a great location!&lt;/p&gt;
+      <description>&lt;p&gt;I attended the International Symposium on Society and Resource Management (ISSRM) in Snowbird, Utah. It was a great conference in a great location!&lt;/p&gt;
 &lt;p&gt;To look at one aspect of the event I collected tweets that used the conference hashtag - #ISSRM2018. Here&amp;rsquo;s what I found.&lt;/p&gt;
 &lt;h2 id=&#34;tweet-frequency&#34;&gt;Tweet Frequency&lt;/h2&gt;
 &lt;p&gt;The conference ran from June 17 through 22. During the conference 930 tweets were collected using the hashtag &lt;strong&gt;#ISSRM2018&lt;/strong&gt;&lt;/p&gt;
@@ -120,6 +89,37 @@
 &lt;p&gt;A little extra work was done in Adobe Illustrator.&lt;/p&gt;
 &lt;p&gt;The data is at 
 &lt;a href=&#34;https://www.denverbcycle.com/company&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Denver BCycle&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Listservs of interest</title>
+      <link>/post/listservs/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/post/listservs/</guid>
+      <description>&lt;p&gt;These are some listservs that might be of interest to people at the intersection of social and ecological fields. I would have liked to know about them earlier in my PhD journey so here they are for others.&lt;/p&gt;
+&lt;h3 id=&#34;ecologhttpslistservumdeduarchivesecolog-lhtml&#34;&gt;
+&lt;a href=&#34;https://listserv.umd.edu/archives/ecolog-l.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECOLOG&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This is an ecology focused listserv but will have opportunities and announcements that sometimes cross over fields.&lt;/p&gt;
+&lt;h3 id=&#34;usialehttplistservurieducgi-binwaa0usiale-l&#34;&gt;
+&lt;a href=&#34;http://listserv.uri.edu/cgi-bin/wa?A0=USIALE-L&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USIALE&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This is the discussion board for the US chapter of the International Association for Landscape Ecology (IALE).&lt;/p&gt;
+&lt;h3 id=&#34;recreation-ecologyhttplistsncsueducgi-bindigestlistrececol&#34;&gt;
+&lt;a href=&#34;http://lists.ncsu.edu/cgi-bin/digest?list=rececol&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recreation Ecology&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This is the listserv for the Recration Ecology Research Network.&lt;/p&gt;
+&lt;h3 id=&#34;earth-sciences-job-boardhttpmailmanucaredupipermailes_jobs_net&#34;&gt;
+&lt;a href=&#34;http://mailman.ucar.edu/pipermail/es_jobs_net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Earth Sciences Job Board&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Looks to be just opportunities in the earth sciences, that&amp;rsquo;s helpful.&lt;/p&gt;
+&lt;h3 id=&#34;society-for-conservation-gishttpswwwscgisorgcontentdiscussionslistserv-faq&#34;&gt;
+&lt;a href=&#34;https://www.scgis.org/content/discussions/listserv-faq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Society for Conservation GIS&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;You have to sign up for this one.&lt;/p&gt;
+&lt;h3 id=&#34;asu-gishttpslistsasueducgi-binwaa0asugis-l&#34;&gt;
+&lt;a href=&#34;https://lists.asu.edu/cgi-bin/wa?A0=ASUGIS-L&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASU GIS&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This is out of Arizona State, but has opportunities in the region.&lt;/p&gt;
+&lt;h3 id=&#34;sprenethttpslistservugaeducgi-binwaa0sprenet&#34;&gt;
+&lt;a href=&#34;https://listserv.uga.edu/cgi-bin/wa?A0=sprenet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPRENET&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;You have to login to this one. SPRENET is popular in the recreation field.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(I&amp;rsquo;ll add more as I find them)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -30,20 +30,20 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-05-01T00:00:00Z"
-slides: example
+# slides: example
 summary:  Percent tree canopy coverage predicted a decreased risk of severe conduct problems in youth with autism spectrum disorders, but not children with other special health care needs; “gray” space was unassociated with conduct problems in any children.
 tags:
 - Greenspace
 - Autism
 - Tree canopy
 title: "Tree Canopy Coverage Predicts Lower Conduct Problem Severity in Children with ASD"
-url_code: '#'
-url_dataset: '#'
-url_pdf: '#'
-url_poster: '#'
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: '#'
-url_video: '#'
+url_source: ""
+url_video: ""
 ---
 
