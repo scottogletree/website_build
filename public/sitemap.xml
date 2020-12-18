@@ -208,16 +208,6 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication-type/4/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
   </url>
@@ -268,8 +258,18 @@
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>/post/2017-03-09-listservs-of-interest/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-02-17-earth-engine_forum_analysis/</loc>
+    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -290,6 +290,21 @@
   <url>
     <loc>/publication/autism_2018/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/issrm_twitter/</loc>
+    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/social-media/</loc>
+    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/bcycle_flow/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -318,6 +333,16 @@
   </url>
   
   <url>
+    <loc>/post/climate_graph/</loc>
+    <lastmod>2017-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r/</loc>
+    <lastmod>2017-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -335,41 +360,6 @@
   <url>
     <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -403,28 +393,11 @@
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/tag/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>

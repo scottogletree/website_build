@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Scott Ogletree</title>
+    <link>/tag/r/</link>
+      <atom:link href="/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <title>R</title>
+      <link>/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>Climate Plot for Clemson in R</title>
+      <link>/post/climate_graph/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/post/climate_graph/</guid>
+      <description>&lt;h1 id=&#34;climate-plot-for-clemson-in-r&#34;&gt;Climate Plot for Clemson in R&lt;/h1&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;Clemson-2016.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 1000px;&#34;/&gt;&lt;/div&gt;
+&lt;p&gt;Recently I ran across a tutorial that sought to recreate Edward Tufte&amp;rsquo;s climate plot for Dayton, OH. It was by Brad Boehmke and can be found 
+&lt;a href=&#34;https://rpubs.com/bradleyboehmke/weather_graphic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As I am always looking for a way to build up my R skills, I decided to try Brad&amp;rsquo;s script for my local weather station. The Clemson area weather station is at a small airport, and it seems that they have data back to 1930 (nice!). I was able to figure out the 
+&lt;a href=&#34;weatherunderground.com&#34;&gt;weatherunderground&lt;/a&gt; API and return csv output.&lt;/p&gt;
+&lt;p&gt;On inspection there are a few years missing in the 1990&amp;rsquo;s, but with a 85 year timespan I ended up with 30122 records.&lt;/p&gt;
+&lt;p&gt;After tweaking things I was able to produce the plot found here. This shows how 2016 average daily temperatures compare to the previous records back to 1930.&lt;/p&gt;
+&lt;p&gt;The script can be found at my other github account - 
+&lt;a href=&#34;https://github.com/ogletrees/ClimateStudy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Climate Script&lt;/a&gt;. Have a go with your local weather station! A pdf of the plot can be found 
+&lt;a href=&#34;Clemson-2016.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;some-notes&#34;&gt;Some notes&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Once things are set up the plotting seems quite slow, maxing out the processor. There probably are ways to speed it up, it seemed quicker the first time I played with it.&lt;/li&gt;
+&lt;li&gt;It would probably be easier to annotate in another programs, like Illustrator or Inkscape. Working with Cartesian coordinates involves trial and error.&lt;/li&gt;
+&lt;li&gt;Update: Nov 2017 Looks like weatherunderground changed their website, so now something like this would take alot more work - oh well&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

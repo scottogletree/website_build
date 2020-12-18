@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social media | Scott Ogletree</title>
+    <link>/tag/social-media/</link>
+      <atom:link href="/tag/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social media</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <title>Social media</title>
+      <link>/tag/social-media/</link>
+    </image>
+    
+    <item>
+      <title>Conference twitter at</title>
+      <link>/post/issrm_twitter/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/post/issrm_twitter/</guid>
+      <description>&lt;p&gt;I recently attended the International Symposium on Society and Resource Management (ISSRM) in Snowbird, Utah. It was a great conference in a great location!&lt;/p&gt;
+&lt;p&gt;To look at one aspect of the event I collected tweets that used the conference hashtag - #ISSRM2018. Here&amp;rsquo;s what I found.&lt;/p&gt;
+&lt;h2 id=&#34;tweet-frequency&#34;&gt;Tweet Frequency&lt;/h2&gt;
+&lt;p&gt;The conference ran from June 17 through 22. During the conference 930 tweets were collected using the hashtag &lt;strong&gt;#ISSRM2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Some tweets were retweets and some were original material.&lt;/p&gt;
+&lt;p&gt;The breakdown was:&lt;/p&gt;
+&lt;p&gt;396 original tweets (43%)&lt;/p&gt;
+&lt;p&gt;534 retweets (57%)&lt;/p&gt;
+&lt;p&gt;The most retweeted tweet was:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;RT @GeogJulie: Excited to launch our new book The Human Dimensions of Forest &amp;amp; Tree Health at the #ISSRM2018 today! @THAPBI @TreeHealthNews @CCRI_UK&amp;rdquo; &lt;a href=&#34;https://twitter.com/GeogJulie/status/1009185468397674497&#34;&gt;https://twitter.com/GeogJulie/status/1009185468397674497&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The most retweeted user was &lt;em&gt;@KathyEHalvorsen&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The top 10 tweeters:&lt;/p&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;ISSRM_users.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 500px;&#34;/&gt;&lt;/div&gt;
+&lt;h2 id=&#34;tweet-time&#34;&gt;Tweet Time&lt;/h2&gt;
+&lt;p&gt;The day that people tweeted.&lt;/p&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;ISSRM_day_vol.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 500px;&#34;/&gt;&lt;/div&gt;
+&lt;p&gt;and the time.&lt;/p&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;ISSRM_by_2_hours.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 600px;&#34;/&gt;&lt;/div&gt;
+&lt;h3 id=&#34;hastags-in-use&#34;&gt;Hastags in use&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;  Hashtag          # of occurances
+ 1 #issrm2018         397
+ 2 #humandimensions    14
+ 3 #scicomm             8
+ 4 #issrm2019           7
+ 5 #utah                7
+ 6 #resilience          6
+ 7 #socialscience       6
+ 8 #academicmama        5
+ 9 #conservation        5
+10 #consocsci           5
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;mentions&#34;&gt;Mentions&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;    Mentioned       # of mentions
+ 1 @info_iasnr        120
+ 2 @mtu_socialsci      27
+ 3 @mturesearch        23
+ 4 @kathyehalvorsen    13
+ 5 @metcalf_lab        12
+ 6 @umcfc               9
+ 7 @energy_subject      7
+ 8 @libbymetcalf        7
+ 9 @nalininadkarni      7
+10 @snowbird            7
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
