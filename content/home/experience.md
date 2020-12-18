@@ -25,13 +25,11 @@ date_format = "Jan 2006"
   date_start = "2019-09-10"
   date_end = ""
   description = """
-  Coordinate dissemination of research project outcomes
-  
-  Data analysis
-  
-  Co-instruct course on Analysis and Evaluation in PRTM
-  
-  Lead analysis and writing of research
+  Under Dr. Myron Floyd and Dr. Aaron Hipp
+  - Coordinate dissemination of research project outcomes
+  - Data analysis
+  - Co-instruct course on Analysis and Evaluation in PRTM
+  - Lead analysis and writing of research
   """
 
 [[experience]]
