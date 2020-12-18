@@ -1,10 +1,8 @@
 ---
 date: "2018-02-18"
 diagram: true
-image:
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
-  placement: 3
 math: true
+summary: Mapping the flow of bicycle share trips in Denver, CO
 title: Denver BCycle Flows
 ---
 
