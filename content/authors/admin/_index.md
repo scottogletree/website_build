@@ -6,13 +6,13 @@ education:
   courses:
   - course: PhD 
     institution: Clemson University
-    year: 2019
+    year: 
   - course: Master of Landscape Architecture
     institution: Clemson University
-    year: 2011
+    year: 
   - course: BSc in Education
     institution: University of Georgia
-    year: 1995
+    year: 
 email: ""
 interests:
 - Environmental and social determinants of health

@@ -5,6 +5,28 @@ Building a website with Rmarkdown
 I have built some of it up already.
 
 How to update it all?
+----------------------------------------
+Once you change some of the markdown files, then rebuild the site
+
+----------------------------------------
+The layout of the page is in website_build/content/home
+Each markdown file is a section
+
+
+The image as avatar:
+The shape of the image on the page (circle, square) is in website_build/config/_default/params.toml line 187
+The image is at - website_build/content/authors/admin
+
+Years on education:
+In this file is where the info on me is -
+website_build/content/authors/admin/_index.md
+The copy at the top of the page, Interests, links
+
+
+Setting Google Analytics:
+
+
+The menus at the top of the page are in website_build/config/_default/menus.toml
 
 From the blowdown book:
 If you have no experience in publishing websites before, just log in using your GitHub account or other accounts, drag the public/ folder built by blogdown for your website to the Netlify page, and your website will be online in a few seconds with a random subdomain name
