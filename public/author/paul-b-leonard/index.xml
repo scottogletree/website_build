@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul B Leonard | Scott Ogletree</title>
-    <link>/author/paul-b-leonard/</link>
-      <atom:link href="/author/paul-b-leonard/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://scottogletree.com/author/paul-b-leonard/</link>
+      <atom:link href="http://scottogletree.com/author/paul-b-leonard/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul B Leonard</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Paul B Leonard</title>
-      <link>/author/paul-b-leonard/</link>
+      <link>http://scottogletree.com/author/paul-b-leonard/</link>
     </image>
     
     <item>
       <title>A framework for mapping cultural resources in landscape conservation planning</title>
-      <link>/publication/antarctic/</link>
+      <link>http://scottogletree.com/publication/antarctic/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/antarctic/</guid>
+      <guid>http://scottogletree.com/publication/antarctic/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R | Scott Ogletree</title>
-    <link>/tag/r/</link>
-      <atom:link href="/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://scottogletree.com/tag/r/</link>
+      <atom:link href="http://scottogletree.com/tag/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>R</title>
-      <link>/tag/r/</link>
+      <link>http://scottogletree.com/tag/r/</link>
     </image>
     
     <item>
       <title>Climate Plot for Clemson in R</title>
-      <link>/post/climate_graph/</link>
+      <link>http://scottogletree.com/post/climate_graph/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/post/climate_graph/</guid>
+      <guid>http://scottogletree.com/post/climate_graph/</guid>
       <description>&lt;h1 id=&#34;climate-plot-for-clemson-in-r&#34;&gt;Climate Plot for Clemson in R&lt;/h1&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;Clemson-2016.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 1000px;&#34;/&gt;&lt;/div&gt;
 &lt;p&gt;Recently I ran across a tutorial that sought to recreate Edward Tufte&amp;rsquo;s climate plot for Dayton, OH. It was by Brad Boehmke and can be found 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Scott Ogletree</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://scottogletree.com/project/</link>
+      <atom:link href="http://scottogletree.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>http://scottogletree.com/project/</link>
     </image>
     
     <item>
       <title>PARC3 - Physical Activity and Recreation in Children in Communities of Color</title>
-      <link>/project/parc/</link>
+      <link>http://scottogletree.com/project/parc/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/project/parc/</guid>
+      <guid>http://scottogletree.com/project/parc/</guid>
       <description>&lt;p&gt;As part of my postdoc at NC State I am working on the PARC3 - Physical Activity and Recreation in Children in Communities of Color led by Dr. Aaron Hipp and Dr. Myron Floyd. The project involves observations and surveys at parks in New York City and Raleigh-Durham. The bulk of the work was done in 2017 and 2018 and we are analyzing data and writing up our findings as part of my work.&lt;/p&gt;
 &lt;p&gt;The project is part of a broader effort studying physical activity that was funded by the Robert Wood Johnson Foundation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Project Description&lt;/strong&gt;&lt;/p&gt;
@@ -29,18 +29,18 @@
     
     <item>
       <title>Combining System for Observing Play and Recreation in Communities (SOPARC)</title>
-      <link>/project/soparc_combine/</link>
+      <link>http://scottogletree.com/project/soparc_combine/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/soparc_combine/</guid>
+      <guid>http://scottogletree.com/project/soparc_combine/</guid>
       <description>&lt;p&gt;System for Observing Play and Recreation in Communities (SOPARC) is a tool for measuring activity in parks. Researchers have used SOPARC in a variety of setting and for this project we are combining the data from 3 separate studies done in New York City. Despite an established protocol each study adjusted the SOPARC tool to their project. We hope to be able to combine each dataset into one grand dataset to understand broader patterns in park use in NYC.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Project Ideas</title>
-      <link>/project/internal-project/</link>
+      <link>http://scottogletree.com/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>http://scottogletree.com/project/internal-project/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Defining Greenspace 2020&lt;/p&gt;

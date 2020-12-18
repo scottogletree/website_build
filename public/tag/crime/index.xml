@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crime | Scott Ogletree</title>
-    <link>/tag/crime/</link>
-      <atom:link href="/tag/crime/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://scottogletree.com/tag/crime/</link>
+      <atom:link href="http://scottogletree.com/tag/crime/index.xml" rel="self" type="application/rss+xml" />
     <description>Crime</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Crime</title>
-      <link>/tag/crime/</link>
+      <link>http://scottogletree.com/tag/crime/</link>
     </image>
     
     <item>
       <title>Effects of Crime Type and Location on Park Use Behavior</title>
-      <link>/publication/crime_parks/</link>
+      <link>http://scottogletree.com/publication/crime_parks/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/crime_parks/</guid>
+      <guid>http://scottogletree.com/publication/crime_parks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can parks help cities fight crime?</title>
-      <link>/publication/conversation/</link>
+      <link>http://scottogletree.com/publication/conversation/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conversation/</guid>
+      <guid>http://scottogletree.com/publication/conversation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Different Views From The 606: Examining the Impacts of an Urban Greenway on Crime in Chicago</title>
-      <link>/publication/606_crime/</link>
+      <link>http://scottogletree.com/publication/606_crime/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/606_crime/</guid>
+      <guid>http://scottogletree.com/publication/606_crime/</guid>
       <description></description>
     </item>
     

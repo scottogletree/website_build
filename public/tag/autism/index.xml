@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autism | Scott Ogletree</title>
-    <link>/tag/autism/</link>
-      <atom:link href="/tag/autism/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://scottogletree.com/tag/autism/</link>
+      <atom:link href="http://scottogletree.com/tag/autism/index.xml" rel="self" type="application/rss+xml" />
     <description>Autism</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Autism</title>
-      <link>/tag/autism/</link>
+      <link>http://scottogletree.com/tag/autism/</link>
     </image>
     
     <item>
       <title>Tree Canopy Coverage Predicts Lower Conduct Problem Severity in Children with ASD</title>
-      <link>/publication/autism_2020/</link>
+      <link>http://scottogletree.com/publication/autism_2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/autism_2020/</guid>
+      <guid>http://scottogletree.com/publication/autism_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gray space and green space proximity associated with higher anxiety in youth with autism</title>
-      <link>/publication/autism_2018/</link>
+      <link>http://scottogletree.com/publication/autism_2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/autism_2018/</guid>
+      <guid>http://scottogletree.com/publication/autism_2018/</guid>
       <description></description>
     </item>
     

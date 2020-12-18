@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Disadvantage | Scott Ogletree</title>
-    <link>/tag/disadvantage/</link>
-      <atom:link href="/tag/disadvantage/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://scottogletree.com/tag/disadvantage/</link>
+      <atom:link href="http://scottogletree.com/tag/disadvantage/index.xml" rel="self" type="application/rss+xml" />
     <description>Disadvantage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Disadvantage</title>
-      <link>/tag/disadvantage/</link>
+      <link>http://scottogletree.com/tag/disadvantage/</link>
     </image>
     
     <item>
       <title>Different Views From The 606: Examining the Impacts of an Urban Greenway on Crime in Chicago</title>
-      <link>/publication/606_crime/</link>
+      <link>http://scottogletree.com/publication/606_crime/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/606_crime/</guid>
+      <guid>http://scottogletree.com/publication/606_crime/</guid>
       <description></description>
     </item>
     
