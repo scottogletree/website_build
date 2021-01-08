@@ -15,9 +15,10 @@ education:
     year: 
 email: ""
 interests:
-- Environmental and social determinants of health
-- Data science
+- Data and geospatial science
+- Cities and development
 - Space and place
+- Environmental and social determinants of health
 organizations:
 - name: North Carolina State University
   url: ""
