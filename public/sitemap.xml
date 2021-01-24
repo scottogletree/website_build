@@ -33,6 +33,36 @@
   </url>
   
   <url>
+    <loc>http://scottogletree.com/authors/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scottogletree.com/tag/database-spatial/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scottogletree.com/post/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scottogletree.com/author/scott-ogletree/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scottogletree.com/tags/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scottogletree.com/post/docker/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scottogletree.com/project/parc/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url>
@@ -44,11 +74,6 @@
   
   <url>
     <loc>http://scottogletree.com/publication-type/2/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://scottogletree.com/authors/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,16 +129,6 @@
   
   <url>
     <loc>http://scottogletree.com/publication/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://scottogletree.com/author/scott-ogletree/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://scottogletree.com/tags/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -259,11 +274,6 @@
   
   <url>
     <loc>http://scottogletree.com/post/earth_engine_analysis/</loc>
-    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://scottogletree.com/post/</loc>
     <lastmod>2019-02-17T00:00:00+00:00</lastmod>
   </url>
   

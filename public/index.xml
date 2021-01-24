@@ -77,6 +77,103 @@
     </item>
     
     <item>
+      <title>Working with PostGreSQL and PostGIS in Docker &#43; QGIS</title>
+      <link>http://scottogletree.com/post/docker/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://scottogletree.com/post/docker/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been wanting to explore more possibilities in databases and spatial data since working on a large data project during my PhD. Since then I really haven&amp;rsquo;t had data that would warrant the effort needed to design and setup a database. Recently I was reminded about Docker, which I have used to spin up Rstudio instances before. After some internet work I found some handy sources for running databases in containers and so I thought I would try it out as a platform for learning more.&lt;/p&gt;
+&lt;p&gt;Here is my effort to get a database up and running in a container and then connect to said database with Dbeaver and then QGIS.&lt;/p&gt;
+&lt;p&gt;Download and install 
+&lt;a href=&#34;https://www.docker.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Docker&lt;/a&gt;; Download and install 
+&lt;a href=&#34;https://dbeaver.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dbeaver Community Edition&lt;/a&gt;; Download and install 
+&lt;a href=&#34;https://www.qgis.org/en/site/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGIS&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Get a PostGreSQL database running in a container
+&lt;ol&gt;
+&lt;li&gt;At the terminal type: &lt;code&gt;docker container run -d --name=pg -p 5432:5432 -e POSTGRES_PASSWORD=docker -e PGDATA=/pgdata -v /pgdata:/pgdata postgres&lt;/code&gt;
+&lt;ol&gt;
+&lt;li&gt;This will download (if it doesn&amp;rsquo;t already exist on your machine) the image from docker and start it up. You will now have running a container with a PostGres database active.&lt;/li&gt;
+&lt;li&gt;Some explanation of the command
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;-d&lt;/code&gt; means the container will run in the background&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-name=pg&lt;/code&gt; names the container, rather than docker assigning a random name&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-p 5432:5432&lt;/code&gt; assigns port 5432 of the container to 5432 on the host. You will connect to the PostGres database through this port&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-e POSTGRES_PASSWORD=docker&lt;/code&gt; is an environment variable for PostGres, it sets the password to docker in this case&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-e PGDATA=/pgdata&lt;/code&gt; sets the data location for the database in the container to the folder &lt;code&gt;/pgdata&lt;/code&gt;. This folder will be created in the container.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-v /pgdata:/pgdata&lt;/code&gt; sets a volume connection from inside the container to a location on the host machine. This allows you to persist your database data when the container is stopped or even deleted.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;postgres&lt;/code&gt; is the image we will download, this will be the latest version of PostGreSQL&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;This comes from &lt;a href=&#34;http://www.youtube.com/watch?v=iZDbENJrl4I&#34;&gt;www.youtube.com/watch?v=iZDbENJrl4I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Another option for the persistence data is just to assign a folder on the host to the default data location inside the container. It may look like &lt;code&gt;-v /[local folder]:/var/lib/postgresql/data&lt;/code&gt;
+&lt;ol&gt;
+&lt;li&gt;I found that the &lt;code&gt;/pgdata&lt;/code&gt; command above persisted but I don&amp;rsquo;t know where it lived on the host machine. It persisted between stopping the container but disappeared after a Docker app update, YMMV.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;If you open the Docker dashboard you will see the container running, success!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Connect from the command line
+&lt;ol&gt;
+&lt;li&gt;You can connect to the container and get to command line inside of it by executing a command
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;docker container exec -it pg bash&lt;/code&gt;
+&lt;ol&gt;
+&lt;li&gt;This brings up bash inside of the container, which is a Linux machine.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-it&lt;/code&gt; makes it interactive so that you can type into it&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pg&lt;/code&gt; is the name of our container &amp;amp; &lt;code&gt;bash&lt;/code&gt; is the command&lt;/li&gt;
+&lt;li&gt;You can type &lt;code&gt;ls&lt;/code&gt; to see the contents, which include the folder &lt;code&gt;/pgdata&lt;/code&gt;. Type &lt;code&gt;exit&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Use &lt;code&gt;psql&lt;/code&gt; to make a table
+&lt;ol&gt;
+&lt;li&gt;Access &lt;code&gt;psql&lt;/code&gt; inside of the container &lt;code&gt;docker container exec -it pg psql -U postgres&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-U postgres&lt;/code&gt; is the user that you use to access the database. Since you are already inside of the container to connect, no password is needed.&lt;/li&gt;
+&lt;li&gt;Create a table at the prompt &lt;code&gt;postgres=#&lt;/code&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;create table table1(name text, id int generated by default as identity);&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Then insert some data&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;insert into table1(name) values(&#39;PostGreSQL&#39;), (&#39;database&#39;), (&#39;Dbeaver&#39;);&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Now you have a table in your database that is running within a docker container. Confirm it by typing &lt;code&gt;\dt&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Connect to database with Dbeaver
+&lt;ol&gt;
+&lt;li&gt;If you open Dbeaver you can connect to this running database by setting up a PostGreSQL connection. The host will be &lt;code&gt;localhost&lt;/code&gt; Database will be &lt;code&gt;postgres&lt;/code&gt; Username will be &lt;code&gt;postgres&lt;/code&gt; and the password is the one set in the docker command, in this case &lt;code&gt;docker&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Test the connection with the button, then Finish&lt;/li&gt;
+&lt;li&gt;You should see our &lt;code&gt;table1&lt;/code&gt; under postgres&amp;gt;Schemas&amp;gt;public&amp;gt;Tables&lt;/li&gt;
+&lt;li&gt;To use Dbeaver check out the documentation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Get PostGreSQL + PostGIS running in a container
+&lt;ol&gt;
+&lt;li&gt;For this I use
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;docker run --name=pgdb -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpassword -e PGDATA=/pgdata -d  -v gisdata:/pgdata postgis/postgis&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;This uses a named volume managed by Docker at &lt;code&gt;gisdata&lt;/code&gt; It doesn&amp;rsquo;t already exist so Docker will create it. You can check these with &lt;code&gt;docker volume ls&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Connect to database with QGIS
+&lt;ol&gt;
+&lt;li&gt;This can be done by right clicking on the PostGIS in the Browser. Once connected you can mange the connection in the DB Browser and do things like import data into the database. Probably best to update to 3.10 at least.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There was a fair amount of Googleing to explore all of this. I had issues arise around connecting to volumes. It is nice to be able to persist data so that you could use this process for learning and analysis. Docker is a good way to keep the environment stable and isolated from whatever machine you are on (I was working on Windows 10 and MacOS).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PARC3 - Physical Activity and Recreation in Children in Communities of Color</title>
       <link>http://scottogletree.com/project/parc/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
