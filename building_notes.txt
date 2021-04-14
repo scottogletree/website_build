@@ -40,3 +40,7 @@ If you have no experience in publishing websites before, just log in using your 
 
 References:
 https://annielyu.com/2020/01/12/blogdown-website/
+
+Update CV
+PDF goes in /Users/nc_ogletree/Dropbox/FileCabinet/website_build/public
+Change link in website_build/config/_default/menus.toml
