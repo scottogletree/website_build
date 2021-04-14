@@ -16,7 +16,7 @@ url_slides: ""
 url_video: ""
 ---
 
-We received a grant for $36,000 for a pilot project to investigate the relationship between greenspace and telomere length in the NHANES data. I led the conceptualization, writing, and submittal of this project to the Center for Human Health and the Environment at NC State. Along with Dr. Aaron Hipp, Dr. David Reif, and Dr. Lin Yang we will be looking at what can be learned about how our environment influences health at the level of DNA.
+We received a pilot project grant for $36,000 to investigate the relationship between greenspace and telomere length in the NHANES data. I led the conceptualization, writing, and submittal of this project to the Center for Human Health and the Environment at NC State. Along with Dr. Aaron Hipp, Dr. David Reif, and Dr. Lin Yang we will be looking at what can be learned about how our environment influences health at the level of DNA.
 
 **Project Description**
 
