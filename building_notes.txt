@@ -9,7 +9,7 @@ How to update it all?
 Once you change some of the markdown files, then rebuild the site
 blogdown::build_site()
 You can test it locally with - 
-blogdown::serve_site(), but remember to stop the serve when done blogdown::stop_server()
+blogdown::serve_site(), but remember to stop the server when done blogdown::stop_server()
 ----------------------------------------
 The layout of the page is in website_build/content/home
 Each markdown file is a section
