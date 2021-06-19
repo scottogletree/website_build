@@ -27,6 +27,17 @@ date_format = "Jan 2006"
   description = """
   As part of the OPENspace Research Center working on Woods In and Around Town (WIAT) projects.
   """
+
+[[experience]]
+  title = "Visiting Researcher"
+  company = "North Carolina State University"
+  company_url = ""
+  location = "North Carolina"
+  date_start = "2021-06-19"
+  date_end = ""
+  description = """
+  Continuing research on grant funded project "Investigating the impact of environmental greenspace exposure on telomere length"
+  """
   
 [[experience]]
   title = "Postdoctoral Research Scholar"
