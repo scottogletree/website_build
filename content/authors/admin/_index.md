@@ -20,9 +20,9 @@ interests:
 - Space and place
 - Environmental and social determinants of health
 organizations:
-- name: North Carolina State University
+- name: University of Edinburgh
   url: ""
-role: Postdoctoral Research Scholar
+role: Research Fellow
 social:
 #- icon: envelope
 #  icon_pack: fas

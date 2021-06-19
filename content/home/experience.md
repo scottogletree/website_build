@@ -18,12 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Fellow"
+  company = "University of Edinburgh"
+  company_url = ""
+  location = "Edinburgh"
+  date_start = "2021-06-21"
+  date_end = ""
+  description = """
+  As part of the OPENspace Research Center working on Woods In and Around Town (WIAT) projects.
+  """
+  
+[[experience]]
   title = "Postdoctoral Research Scholar"
   company = "North Carolina State University"
   company_url = ""
   location = "North Carolina"
   date_start = "2019-09-10"
-  date_end = ""
+  date_end = "2021-06-18"
   description = """
   Under Dr. Myron Floyd and Dr. Aaron Hipp
   - Coordinate dissemination of research project outcomes
