@@ -46,4 +46,4 @@ user_groups:
 - Visitors
 ---
 
-Scott is a postdoctoral researcher interested in connections between human well-being and the environment. He researches these connections using spatial and statistical tools to better understand how the natural world impacts people.
+Scott is a researcher interested in connections between human well-being and the environment. He researches these connections using spatial and statistical tools to better understand how the natural world impacts people.
