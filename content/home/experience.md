@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   location = "South Carolina"
   date_start = "2019-05-16"
   date_end = "2019-08-31"
-  description = """Data management, and analysis of mobile device location data for project on visitor use managemetn in national parks"""
+  description = """Data management, and analysis of mobile device location data for project on visitor use management in national parks"""
   
 [[experience]]
   title = "Data Manager"
