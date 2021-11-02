@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2021-06-21"
   date_end = ""
   description = """
-  As part of the OPENspace Research Center working on Woods In and Around Town (WIAT) projects.
+  As part of the <a href="https://www.openspace.eca.ed.ac.uk" target="_blank">OPENspace Research Center</a> and <a href="https://cresh.org.uk/" target="_blank">CRESH</a> working on Woods In and Around Town (WIAT) projects.
   """
 
 [[experience]]
