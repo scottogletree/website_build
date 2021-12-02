@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katherine Amidon | Scott Ogletree</title>
+    <link>http://scottogletree.com/author/katherine-amidon/</link>
+      <atom:link href="http://scottogletree.com/author/katherine-amidon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katherine Amidon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <title>Katherine Amidon</title>
+      <link>http://scottogletree.com/author/katherine-amidon/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating Conservation Easement and Land Records Datain Rapidly Growing Counties in the United States and theImplications for Environmental Governance</title>
+      <link>http://scottogletree.com/publication/ce_data/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://scottogletree.com/publication/ce_data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
