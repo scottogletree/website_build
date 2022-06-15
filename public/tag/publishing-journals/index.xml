@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publishing, journals | Scott Ogletree</title>
+    <link>http://scottogletree.com/tag/publishing-journals/</link>
+      <atom:link href="http://scottogletree.com/tag/publishing-journals/index.xml" rel="self" type="application/rss+xml" />
+    <description>publishing, journals</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <title>publishing, journals</title>
+      <link>http://scottogletree.com/tag/publishing-journals/</link>
+    </image>
+    
+    <item>
+      <title>Joining Early Career Editorial Board</title>
+      <link>http://scottogletree.com/post/eceb/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://scottogletree.com/post/eceb/</guid>
+      <description>&lt;p&gt;Joining the board.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

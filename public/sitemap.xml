@@ -33,17 +33,42 @@
   </url>
   
   <url>
+    <loc>http://scottogletree.com/authors/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scottogletree.com/post/eceb/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scottogletree.com/post/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scottogletree.com/tag/publishing-journals/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scottogletree.com/author/scott-ogletree/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scottogletree.com/tags/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scottogletree.com/publication-type/2/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://scottogletree.com/author/anna-treado-overby/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://scottogletree.com/authors/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,22 +203,12 @@
   </url>
   
   <url>
-    <loc>http://scottogletree.com/author/scott-ogletree/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://scottogletree.com/tag/social-capital/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://scottogletree.com/tag/structural-equation-modeling/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://scottogletree.com/tags/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -214,11 +229,6 @@
   
   <url>
     <loc>http://scottogletree.com/tag/database-spatial/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://scottogletree.com/post/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
