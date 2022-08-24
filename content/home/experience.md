@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Fellow in Environmental Epidemiology"
+  company = "University of Edinburgh"
+  company_url = ""
+  location = "Edinburgh"
+  date_start = "2022-09-01"
+  date_end = ""
+  description = """
+  As part of the <a href="https://ukprp.org/what-we-fund/groundswell/" target="_blank">GroundsWell Project</a> working on data collection and analysis for evaluating community urban green and blue spaces to promote health and well being.
+  """
+  
+  [[experience]]
   title = "Research Fellow"
   company = "University of Edinburgh"
   company_url = ""
