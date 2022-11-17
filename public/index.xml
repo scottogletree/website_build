@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott Ogletree</title>
-    <link>http://scottogletree.com/</link>
-      <atom:link href="http://scottogletree.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Scott Ogletree</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Scott Ogletree</title>
-      <link>http://scottogletree.com/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>http://scottogletree.com/courses/example/example1/</link>
+      <link>/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://scottogletree.com/courses/example/example1/</guid>
+      <guid>/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>http://scottogletree.com/courses/example/example2/</link>
+      <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://scottogletree.com/courses/example/example2/</guid>
+      <guid>/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>http://scottogletree.com/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -77,18 +77,26 @@
     </item>
     
     <item>
+      <title>The complex relationship between greenspace and well-being in children with and without autism</title>
+      <link>/publication/autism_2022/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/autism_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Urban greenspace linked to lower crime risk across 301 major U.S. cities</title>
-      <link>http://scottogletree.com/publication/crime_greenspace/</link>
+      <link>/publication/crime_greenspace/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/publication/crime_greenspace/</guid>
+      <guid>/publication/crime_greenspace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joining Early Career Editorial Board</title>
-      <link>http://scottogletree.com/post/eceb/</link>
+      <link>/post/eceb/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/post/eceb/</guid>
+      <guid>/post/eceb/</guid>
       <description>&lt;p&gt;Joining the board. 
 &lt;a href=&#34;https://www.journals.elsevier.com/health-and-place/editorial-board&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Health and Place&lt;/em&gt;&lt;/a&gt; and 
 &lt;a href=&#34;https://www.journals.elsevier.com/wellbeing-space-and-society/editorial-board&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Wellbeing, Space and Society&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
@@ -97,25 +105,25 @@
     
     <item>
       <title>Cultivating social capital in diverse, low-income neighborhoods: The value of parks for parents with young children</title>
-      <link>http://scottogletree.com/publication/social_capital/</link>
+      <link>/publication/social_capital/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/publication/social_capital/</guid>
+      <guid>/publication/social_capital/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Conservation Easement and Land Records Datain Rapidly Growing Counties in the United States and theImplications for Environmental Governance</title>
-      <link>http://scottogletree.com/publication/ce_data/</link>
+      <link>/publication/ce_data/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/publication/ce_data/</guid>
+      <guid>/publication/ce_data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Greenspace and Telomere Length</title>
-      <link>http://scottogletree.com/project/greenspace_telomere/</link>
+      <link>/project/greenspace_telomere/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/project/greenspace_telomere/</guid>
+      <guid>/project/greenspace_telomere/</guid>
       <description>&lt;p&gt;We received a pilot project grant for $36,000 to investigate the relationship between greenspace and telomere length in the NHANES data. I led the conceptualization, writing, and submittal of this project to the Center for Human Health and the Environment at NC State. Along with Dr. Aaron Hipp, Dr. David Reif, and Dr. Lin Yang we will be looking at what can be learned about how our environment influences health at the level of DNA.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Project Description&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Greenspaces, composed of vegetation such as lawns, street trees, and parks, are associated with a variety of benefits to mental and physical health. The effect of green, vegetated landscapes on human health has been investigated from the level of specific health behaviors and outcomes, self-reported measures of well being, and quality of life, but little work has been able to identify biological mechanisms behind these associations. Our proposed project will investigate a pathway that greenspace environments might influence health at the cellular level, through the preservation of telomere length. Telomeres are structures on the ends of DNA and play a role in cell regeneration and aging. The length of telomeres can be impacted by stressors in the environment and could be an epigenetic factor in disease and individual health. Greenspace is an environmental condition that varies across residential areas and could influence telomere length through stress regulation, physical activity opportunities, air quality improvements, or other impacts. Little research has been done on the relationship that environmental greenspace may have on telomere length, and therefore disease, cellular health, and aging.
@@ -126,9 +134,9 @@ Findings of this retrospective study will inform the research gaps and aims to s
     
     <item>
       <title>Working with PostGreSQL and PostGIS in Docker &#43; QGIS</title>
-      <link>http://scottogletree.com/post/docker/</link>
+      <link>/post/docker/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/post/docker/</guid>
+      <guid>/post/docker/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been wanting to explore more possibilities in databases and spatial data since working on a large data project during my PhD. Since then I really haven&amp;rsquo;t had data that would warrant the effort needed to design and setup a database. Recently I was reminded about Docker, which I have used to spin up Rstudio instances before. After some internet work I found some handy sources for running databases in containers and so I thought I would try it out as a platform for learning more.&lt;/p&gt;
 &lt;p&gt;Here is my effort to get a database up and running in a container and then connect to said database with Dbeaver and then QGIS.&lt;/p&gt;
 &lt;p&gt;Download and install 
@@ -223,9 +231,9 @@ Findings of this retrospective study will inform the research gaps and aims to s
     
     <item>
       <title>PARC3 - Physical Activity and Recreation in Children in Communities of Color</title>
-      <link>http://scottogletree.com/project/parc/</link>
+      <link>/project/parc/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/project/parc/</guid>
+      <guid>/project/parc/</guid>
       <description>&lt;p&gt;As part of my postdoc at NC State I am working on the PARC3 - Physical Activity and Recreation in Children in Communities of Color led by Dr. Aaron Hipp and Dr. Myron Floyd. The project involves observations and surveys at parks in New York City and Raleigh-Durham. The bulk of the work was done in 2017 and 2018 and we are analyzing data and writing up our findings as part of my work.&lt;/p&gt;
 &lt;p&gt;The project is part of a broader effort studying physical activity that was funded by the Robert Wood Johnson Foundation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Project Description&lt;/strong&gt;&lt;/p&gt;
@@ -238,58 +246,66 @@ Findings of this retrospective study will inform the research gaps and aims to s
     
     <item>
       <title>Parental Preference for Park Attributes Related to Children’s Use of Parks in Low-Income, Racial/Ethnic Diverse Neighborhoods</title>
-      <link>http://scottogletree.com/publication/parent_pref/</link>
+      <link>/publication/parent_pref/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/publication/parent_pref/</guid>
+      <guid>/publication/parent_pref/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining System for Observing Play and Recreation in Communities (SOPARC)</title>
-      <link>http://scottogletree.com/project/soparc_combine/</link>
+      <link>/project/soparc_combine/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/project/soparc_combine/</guid>
+      <guid>/project/soparc_combine/</guid>
       <description>&lt;p&gt;System for Observing Play and Recreation in Communities (SOPARC) is a tool for measuring activity in parks. Researchers have used SOPARC in a variety of setting and for this project we are combining the data from 3 separate studies done in New York City. Despite an established protocol each study adjusted the SOPARC tool to their project. We hope to be able to combine each dataset into one grand dataset to understand broader patterns in park use in NYC.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Effects of Crime Type and Location on Park Use Behavior</title>
-      <link>http://scottogletree.com/publication/crime_parks/</link>
+      <link>/publication/crime_parks/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/publication/crime_parks/</guid>
+      <guid>/publication/crime_parks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tree Canopy Coverage Predicts Lower Conduct Problem Severity in Children with ASD</title>
-      <link>http://scottogletree.com/publication/autism_2020/</link>
+      <link>/publication/autism_2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/publication/autism_2020/</guid>
+      <guid>/publication/autism_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree Canopy Coverage Predicts Lower Conduct Problem Severity in Children with ASD</title>
+      <link>/publication/padus_ar/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/padus_ar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can parks help cities fight crime?</title>
-      <link>http://scottogletree.com/publication/conversation/</link>
+      <link>/publication/conversation/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/publication/conversation/</guid>
+      <guid>/publication/conversation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A framework for mapping cultural resources in landscape conservation planning</title>
-      <link>http://scottogletree.com/publication/antarctic/</link>
+      <link>/publication/antarctic/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/publication/antarctic/</guid>
+      <guid>/publication/antarctic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Google Earth Engine forum posts</title>
-      <link>http://scottogletree.com/post/earth_engine_analysis/</link>
+      <link>/post/earth_engine_analysis/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/post/earth_engine_analysis/</guid>
+      <guid>/post/earth_engine_analysis/</guid>
       <description>&lt;p&gt;I did an analysis of the forum post titles that come from the help forum for Google Earth Engine.&lt;/p&gt;
 &lt;p&gt;You can find the analysis and code here &lt;a href=&#34;https://ogletrees.github.io/GEE_post_analysis/&#34; target=&#34;_blank&#34;&gt;GEE_post_analysis&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -297,9 +313,9 @@ Findings of this retrospective study will inform the research gaps and aims to s
     
     <item>
       <title>Slides</title>
-      <link>http://scottogletree.com/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -431,17 +447,17 @@ Three
     
     <item>
       <title>Gray space and green space proximity associated with higher anxiety in youth with autism</title>
-      <link>http://scottogletree.com/publication/autism_2018/</link>
+      <link>/publication/autism_2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/publication/autism_2018/</guid>
+      <guid>/publication/autism_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference twitter at ISSRM2018</title>
-      <link>http://scottogletree.com/post/issrm_twitter/</link>
+      <link>/post/issrm_twitter/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/post/issrm_twitter/</guid>
+      <guid>/post/issrm_twitter/</guid>
       <description>&lt;p&gt;I attended the International Symposium on Society and Resource Management (ISSRM) in Snowbird, Utah. It was a great conference in a great location!&lt;/p&gt;
 &lt;p&gt;To look at one aspect of the event I collected tweets that used the conference hashtag - #ISSRM2018. Here&amp;rsquo;s what I found.&lt;/p&gt;
 &lt;h2 id=&#34;tweet-frequency&#34;&gt;Tweet Frequency&lt;/h2&gt;
@@ -491,9 +507,9 @@ Three
     
     <item>
       <title>Denver BCycle Flows</title>
-      <link>http://scottogletree.com/post/bcycle_flow/</link>
+      <link>/post/bcycle_flow/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/post/bcycle_flow/</guid>
+      <guid>/post/bcycle_flow/</guid>
       <description>&lt;p&gt;I came across some data on bike share trips from the Denver BCycle program, and a nice analysis by Tyler Byers 
 &lt;a href=&#34;http://datawrangl.com/2016/02/21/denver-bcycle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;So I fetched the data and made a plot that is more like art, based on work by Dr. James Cheshire 
@@ -509,17 +525,17 @@ Three
     
     <item>
       <title>Different Views From The 606: Examining the Impacts of an Urban Greenway on Crime in Chicago</title>
-      <link>http://scottogletree.com/publication/606_crime/</link>
+      <link>/publication/606_crime/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/publication/606_crime/</guid>
+      <guid>/publication/606_crime/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Listservs of interest</title>
-      <link>http://scottogletree.com/post/listservs/</link>
+      <link>/post/listservs/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/post/listservs/</guid>
+      <guid>/post/listservs/</guid>
       <description>&lt;p&gt;These are some listservs that might be of interest to people at the intersection of social and ecological fields. I would have liked to know about them earlier in my PhD journey so here they are for others.&lt;/p&gt;
 &lt;h3 id=&#34;ecologhttpslistservumdeduarchivesecolog-lhtml&#34;&gt;
 &lt;a href=&#34;https://listserv.umd.edu/archives/ecolog-l.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECOLOG&lt;/a&gt;&lt;/h3&gt;
@@ -548,9 +564,9 @@ Three
     
     <item>
       <title>Climate Plot for Clemson in R</title>
-      <link>http://scottogletree.com/post/climate_graph/</link>
+      <link>/post/climate_graph/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/post/climate_graph/</guid>
+      <guid>/post/climate_graph/</guid>
       <description>&lt;h1 id=&#34;climate-plot-for-clemson-in-r&#34;&gt;Climate Plot for Clemson in R&lt;/h1&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;Clemson-2016.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 1000px;&#34;/&gt;&lt;/div&gt;
 &lt;p&gt;Recently I ran across a tutorial that sought to recreate Edward Tufte&amp;rsquo;s climate plot for Dayton, OH. It was by Brad Boehmke and can be found 
@@ -573,9 +589,9 @@ Three
     
     <item>
       <title>Project Ideas</title>
-      <link>http://scottogletree.com/project/internal-project/</link>
+      <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/project/internal-project/</guid>
+      <guid>/project/internal-project/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Defining Greenspace 2020&lt;/p&gt;
@@ -614,9 +630,9 @@ Three
     
     <item>
       <title>Can heritage resources highlight changes to the natural environment caused by climate change? Evidence from the Antarctic tourism experience</title>
-      <link>http://scottogletree.com/publication/cultural_resources/</link>
+      <link>/publication/cultural_resources/</link>
       <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/publication/cultural_resources/</guid>
+      <guid>/publication/cultural_resources/</guid>
       <description></description>
     </item>
     
