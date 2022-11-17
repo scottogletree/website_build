@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jing Huei Huang | Scott Ogletree</title>
-    <link>/author/jing-huei-huang/</link>
-      <atom:link href="/author/jing-huei-huang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://scottogletree.com/author/jing-huei-huang/</link>
+      <atom:link href="http://scottogletree.com/author/jing-huei-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jing Huei Huang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Jing Huei Huang</title>
-      <link>/author/jing-huei-huang/</link>
+      <link>http://scottogletree.com/author/jing-huei-huang/</link>
     </image>
     
     <item>
       <title>Cultivating social capital in diverse, low-income neighborhoods: The value of parks for parents with young children</title>
-      <link>/publication/social_capital/</link>
+      <link>http://scottogletree.com/publication/social_capital/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/social_capital/</guid>
+      <guid>http://scottogletree.com/publication/social_capital/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parental Preference for Park Attributes Related to Children’s Use of Parks in Low-Income, Racial/Ethnic Diverse Neighborhoods</title>
-      <link>/publication/parent_pref/</link>
+      <link>http://scottogletree.com/publication/parent_pref/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/parent_pref/</guid>
+      <guid>http://scottogletree.com/publication/parent_pref/</guid>
       <description></description>
     </item>
     

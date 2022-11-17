@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>well-being | Scott Ogletree</title>
-    <link>/tag/well-being/</link>
-      <atom:link href="/tag/well-being/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://scottogletree.com/tag/well-being/</link>
+      <atom:link href="http://scottogletree.com/tag/well-being/index.xml" rel="self" type="application/rss+xml" />
     <description>well-being</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>well-being</title>
-      <link>/tag/well-being/</link>
+      <link>http://scottogletree.com/tag/well-being/</link>
     </image>
     
     <item>
       <title>The complex relationship between greenspace and well-being in children with and without autism</title>
-      <link>/publication/autism_2022/</link>
+      <link>http://scottogletree.com/publication/autism_2022/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/autism_2022/</guid>
+      <guid>http://scottogletree.com/publication/autism_2022/</guid>
       <description></description>
     </item>
     

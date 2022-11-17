@@ -1,21 +1,18 @@
 ---
-abstract: "Introduction: Conduct problems are commonly reported among individuals with autism spectrum disorders (ASD) and children with other special health care needs (CSHCN). Environmental research indicates that exposure to natural environments can lead to decreased conduct problems; opposite effects (i.e., increased problems) are associated with built “gray” environments (e.g., roadways).
-Methods: This exploratory study analyzed the association between Zip-code level tree canopy coverage and severity of conduct problems in typical children, children with ASD, and CSHCN. Tree canopy data came from National Land Cover Database and ASD data came from the cross-sectional National Survey of Children’s Health (2011/2012).
-Results: Percent tree canopy coverage predicted a decreased risk of severe conduct problems in youth with ASD, but not CSHCN; “gray” space was unassociated with conduct problems in any children.
-Conclusions: Community tree canopy coverage is negatively associated with conduct problems in children with ASD. More research using individual assessments and street level metrics
-will help better determine the relationship between canopy coverage and conduct problems in ASD."
+abstract: "Most spatial epidemiological studies of nature-health relationships use generalized green space measures. For instance, coarse resolution spatial data containing normalized difference vegetative index (NDVI) values are prominent despite criticisms, such as the researcher’s inability to restrain exposure estimates to public (accessible) and private (largely inaccessible) land. Non-threatening natural landscapes can improve health through building capacities for health-promoting behaviors (e.g., physical activity). Such behaviors may be best activated by recreational and accessible parks.
+We curated the Parks and Protected Areas Database of the U.S. (PAD-US) to identify parks that are accessible for outdoor recreation. Our title adds “AR” to “PAD-US” where A=Accessible and R=Recreational. We validated the PAD-US-AR by comparisons with “greenspace” datasets and sociodemographics, which demonstrated its uniqueness from other commonly employed metrics of nature exposure.
+The PAD-US-AR presents a reliable estimate for exposure to parks accessible for outdoor recreation. It has strong associations with home prices, shares of female residents, and shares of older residents. The dataset can accompany nature exposure metrics in environmental epidemiology and allied fields."
 authors:
-- Brian Barger
-- Lincoln R Larson
+- Matthew HEM Browning
+- Alessandro Rigolon
 - admin
-- Julia Torquati
-- Steven Rosenberg
-- Cassandra Johnson Gaither
-- Jody Marie Bartz
-- Andrew Gardner
-- Eric Moody
-date: "2020-05-01T00:00:00Z"
-doi: "https://doi.org/10.1080/19315864.2020.1714824"
+- Ruoyu Wang
+- Jochem Klompmaker
+- Chris Bailey
+- Ryan Gagnon
+- Peter James
+date: "2022-12-31T00:00:00Z"
+doi: "https://doi.org/10.1080/xxxxxxx"
 featured: false
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
@@ -25,18 +22,16 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 projects:
-publication: '*Journal of Mental Health Research in Intellectual Disabilities*'
+publication: '*Scientific Data*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-05-01T00:00:00Z"
+publishDate: "2022-12-31T00:00:00Z"
 # slides: example
-summary:  Percent tree canopy coverage predicted a decreased risk of severe conduct problems in youth with autism spectrum disorders, but not children with other special health care needs; “gray” space was unassociated with conduct problems in any children.
+summary: The PAD-US-AR presents a reliable estimate for exposure to parks accessible for outdoor recreation..
 tags:
 - Greenspace
-- Autism
-- Tree canopy
-title: "Tree Canopy Coverage Predicts Lower Conduct Problem Severity in Children with ASD"
+title: "Curated dataset of accessible and recreational parks in the U.S.: Comparison to greenspace metrics and sociodemographics"
 url_code: ""
 url_dataset: ""
 url_pdf: ""

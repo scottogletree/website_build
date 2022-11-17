@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parents | Scott Ogletree</title>
-    <link>/tag/parents/</link>
-      <atom:link href="/tag/parents/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://scottogletree.com/tag/parents/</link>
+      <atom:link href="http://scottogletree.com/tag/parents/index.xml" rel="self" type="application/rss+xml" />
     <description>Parents</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Parents</title>
-      <link>/tag/parents/</link>
+      <link>http://scottogletree.com/tag/parents/</link>
     </image>
     
     <item>
       <title>Parental Preference for Park Attributes Related to Children’s Use of Parks in Low-Income, Racial/Ethnic Diverse Neighborhoods</title>
-      <link>/publication/parent_pref/</link>
+      <link>http://scottogletree.com/publication/parent_pref/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/parent_pref/</guid>
+      <guid>http://scottogletree.com/publication/parent_pref/</guid>
       <description></description>
     </item>
     

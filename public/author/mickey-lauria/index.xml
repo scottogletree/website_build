@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mickey Lauria | Scott Ogletree</title>
-    <link>/author/mickey-lauria/</link>
-      <atom:link href="/author/mickey-lauria/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://scottogletree.com/author/mickey-lauria/</link>
+      <atom:link href="http://scottogletree.com/author/mickey-lauria/index.xml" rel="self" type="application/rss+xml" />
     <description>Mickey Lauria</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Mickey Lauria</title>
-      <link>/author/mickey-lauria/</link>
+      <link>http://scottogletree.com/author/mickey-lauria/</link>
     </image>
     
     <item>
       <title>Evaluating Conservation Easement and Land Records Datain Rapidly Growing Counties in the United States and theImplications for Environmental Governance</title>
-      <link>/publication/ce_data/</link>
+      <link>http://scottogletree.com/publication/ce_data/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/ce_data/</guid>
+      <guid>http://scottogletree.com/publication/ce_data/</guid>
       <description></description>
     </item>
     

@@ -2,45 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brian Barger | Scott Ogletree</title>
-    <link>/author/brian-barger/</link>
-      <atom:link href="/author/brian-barger/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://scottogletree.com/author/brian-barger/</link>
+      <atom:link href="http://scottogletree.com/author/brian-barger/index.xml" rel="self" type="application/rss+xml" />
     <description>Brian Barger</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Brian Barger</title>
-      <link>/author/brian-barger/</link>
+      <link>http://scottogletree.com/author/brian-barger/</link>
     </image>
     
     <item>
       <title>The complex relationship between greenspace and well-being in children with and without autism</title>
-      <link>/publication/autism_2022/</link>
+      <link>http://scottogletree.com/publication/autism_2022/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/autism_2022/</guid>
+      <guid>http://scottogletree.com/publication/autism_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tree Canopy Coverage Predicts Lower Conduct Problem Severity in Children with ASD</title>
-      <link>/publication/autism_2020/</link>
+      <link>http://scottogletree.com/publication/autism_2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/autism_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tree Canopy Coverage Predicts Lower Conduct Problem Severity in Children with ASD</title>
-      <link>/publication/padus_ar/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/padus_ar/</guid>
+      <guid>http://scottogletree.com/publication/autism_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gray space and green space proximity associated with higher anxiety in youth with autism</title>
-      <link>/publication/autism_2018/</link>
+      <link>http://scottogletree.com/publication/autism_2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/autism_2018/</guid>
+      <guid>http://scottogletree.com/publication/autism_2018/</guid>
       <description></description>
     </item>
     

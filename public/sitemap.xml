@@ -3,556 +3,551 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>http://scottogletree.com/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>http://scottogletree.com/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>http://scottogletree.com/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>http://scottogletree.com/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>http://scottogletree.com/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://scottogletree.com/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
+    <loc>http://scottogletree.com/publication-type/2/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>http://scottogletree.com/authors/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/autism/</loc>
+    <loc>http://scottogletree.com/tag/autism/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/brian-barger/</loc>
+    <loc>http://scottogletree.com/author/brian-barger/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/cshcn/</loc>
+    <loc>http://scottogletree.com/tag/cshcn/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/environmental-science/</loc>
+    <loc>http://scottogletree.com/tag/environmental-science/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/eric-moody/</loc>
+    <loc>http://scottogletree.com/author/eric-moody/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/greenspace/</loc>
+    <loc>http://scottogletree.com/tag/greenspace/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/julia-torquati/</loc>
+    <loc>http://scottogletree.com/author/julia-torquati/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/lincoln-r-larson/</loc>
+    <loc>http://scottogletree.com/author/lincoln-r-larson/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>http://scottogletree.com/publication_types/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>http://scottogletree.com/publication/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/scott-ogletree/</loc>
+    <loc>http://scottogletree.com/author/scott-ogletree/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/steven-rosenberg/</loc>
+    <loc>http://scottogletree.com/author/steven-rosenberg/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://scottogletree.com/tags/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/autism_2022/</loc>
+    <loc>http://scottogletree.com/publication/autism_2022/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/well-being/</loc>
+    <loc>http://scottogletree.com/tag/well-being/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/crime/</loc>
+    <loc>http://scottogletree.com/tag/crime/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/david-l-white/</loc>
+    <loc>http://scottogletree.com/author/david-l-white/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/matthew-tj-brownlee/</loc>
+    <loc>http://scottogletree.com/author/matthew-tj-brownlee/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/multilevel-modeling/</loc>
+    <loc>http://scottogletree.com/tag/multilevel-modeling/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/robert-b-powell/</loc>
+    <loc>http://scottogletree.com/author/robert-b-powell/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/urban-greenspace/</loc>
+    <loc>http://scottogletree.com/tag/urban-greenspace/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/crime_greenspace/</loc>
+    <loc>http://scottogletree.com/publication/crime_greenspace/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/eceb/</loc>
+    <loc>http://scottogletree.com/post/eceb/</loc>
     <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>http://scottogletree.com/post/</loc>
     <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/publishing-journals/</loc>
+    <loc>http://scottogletree.com/tag/publishing-journals/</loc>
     <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/anna-treado-overby/</loc>
+    <loc>http://scottogletree.com/author/anna-treado-overby/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/built-environment/</loc>
+    <loc>http://scottogletree.com/tag/built-environment/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/caitlin-s-dyckman/</loc>
+    <loc>http://scottogletree.com/author/caitlin-s-dyckman/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/claudia-alberico/</loc>
+    <loc>http://scottogletree.com/author/claudia-alberico/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/conservation-easements/</loc>
+    <loc>http://scottogletree.com/tag/conservation-easements/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/conservation-planning/</loc>
+    <loc>http://scottogletree.com/tag/conservation-planning/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/social_capital/</loc>
+    <loc>http://scottogletree.com/publication/social_capital/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/daniel-crum/</loc>
+    <loc>http://scottogletree.com/author/daniel-crum/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/equity/</loc>
+    <loc>http://scottogletree.com/tag/equity/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/ce_data/</loc>
+    <loc>http://scottogletree.com/publication/ce_data/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/j-aaron-hipp/</loc>
+    <loc>http://scottogletree.com/author/j-aaron-hipp/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/jing-huei-huang/</loc>
+    <loc>http://scottogletree.com/author/jing-huei-huang/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/katherine-amidon/</loc>
+    <loc>http://scottogletree.com/author/katherine-amidon/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/land-records/</loc>
+    <loc>http://scottogletree.com/tag/land-records/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/land-trusts/</loc>
+    <loc>http://scottogletree.com/tag/land-trusts/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/lauren-e-mullenbach/</loc>
+    <loc>http://scottogletree.com/author/lauren-e-mullenbach/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/mickey-lauria/</loc>
+    <loc>http://scottogletree.com/author/mickey-lauria/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/myron-f-floyd/</loc>
+    <loc>http://scottogletree.com/author/myron-f-floyd/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/nakisha-fouch/</loc>
+    <loc>http://scottogletree.com/author/nakisha-fouch/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/open-data/</loc>
+    <loc>http://scottogletree.com/tag/open-data/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/oriol-marquet/</loc>
+    <loc>http://scottogletree.com/author/oriol-marquet/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/private-landowners/</loc>
+    <loc>http://scottogletree.com/tag/private-landowners/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/robert-f-baldwin/</loc>
+    <loc>http://scottogletree.com/author/robert-f-baldwin/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/social-capital/</loc>
+    <loc>http://scottogletree.com/tag/social-capital/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/structural-equation-modeling/</loc>
+    <loc>http://scottogletree.com/tag/structural-equation-modeling/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/urban-parks/</loc>
+    <loc>http://scottogletree.com/tag/urban-parks/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/greenspace_telomere/</loc>
+    <loc>http://scottogletree.com/project/greenspace_telomere/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>http://scottogletree.com/project/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/database-spatial/</loc>
+    <loc>http://scottogletree.com/tag/database-spatial/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/docker/</loc>
+    <loc>http://scottogletree.com/post/docker/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/parc/</loc>
+    <loc>http://scottogletree.com/project/parc/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/parent_pref/</loc>
+    <loc>http://scottogletree.com/publication/parent_pref/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/parents/</loc>
+    <loc>http://scottogletree.com/tag/parents/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/parks/</loc>
+    <loc>http://scottogletree.com/tag/parks/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/physical-activity/</loc>
+    <loc>http://scottogletree.com/tag/physical-activity/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/alex-sinykin/</loc>
+    <loc>http://scottogletree.com/author/alex-sinykin/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/candice-b-horvath/</loc>
+    <loc>http://scottogletree.com/author/candice-b-horvath/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/soparc_combine/</loc>
+    <loc>http://scottogletree.com/project/soparc_combine/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/crime_parks/</loc>
+    <loc>http://scottogletree.com/publication/crime_parks/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/luis-j-suau/</loc>
+    <loc>http://scottogletree.com/author/luis-j-suau/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/andrew-gardner/</loc>
+    <loc>http://scottogletree.com/author/andrew-gardner/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/cassandra-johnson-gaither/</loc>
+    <loc>http://scottogletree.com/author/cassandra-johnson-gaither/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/jody-marie-bartz/</loc>
+    <loc>http://scottogletree.com/author/jody-marie-bartz/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/tree-canopy/</loc>
+    <loc>http://scottogletree.com/tag/tree-canopy/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/autism_2020/</loc>
+    <loc>http://scottogletree.com/publication/autism_2020/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/padus_ar/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/4/</loc>
+    <loc>http://scottogletree.com/publication-type/4/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/conversation/</loc>
+    <loc>http://scottogletree.com/publication/conversation/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>http://scottogletree.com/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/antarctic/</loc>
+    <loc>http://scottogletree.com/publication/antarctic/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/cultural-landscapes/</loc>
+    <loc>http://scottogletree.com/tag/cultural-landscapes/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/cultural-resources/</loc>
+    <loc>http://scottogletree.com/tag/cultural-resources/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/paul-b-leonard/</loc>
+    <loc>http://scottogletree.com/author/paul-b-leonard/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/earth_engine_analysis/</loc>
+    <loc>http://scottogletree.com/post/earth_engine_analysis/</loc>
     <lastmod>2019-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>http://scottogletree.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>http://scottogletree.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/anne-schutte/</loc>
+    <loc>http://scottogletree.com/author/anne-schutte/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/autism_2018/</loc>
+    <loc>http://scottogletree.com/publication/autism_2018/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/issrm_twitter/</loc>
+    <loc>http://scottogletree.com/post/issrm_twitter/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/social-media/</loc>
+    <loc>http://scottogletree.com/tag/social-media/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/bcycle_flow/</loc>
+    <loc>http://scottogletree.com/post/bcycle_flow/</loc>
     <lastmod>2018-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/brandon-harris/</loc>
+    <loc>http://scottogletree.com/author/brandon-harris/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/606_crime/</loc>
+    <loc>http://scottogletree.com/publication/606_crime/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/disadvantage/</loc>
+    <loc>http://scottogletree.com/tag/disadvantage/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/linear-trails/</loc>
+    <loc>http://scottogletree.com/tag/linear-trails/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/listservs/</loc>
+    <loc>http://scottogletree.com/post/listservs/</loc>
     <lastmod>2017-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/climate_graph/</loc>
+    <loc>http://scottogletree.com/post/climate_graph/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/r/</loc>
+    <loc>http://scottogletree.com/tag/r/</loc>
     <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/ideas/</loc>
+    <loc>http://scottogletree.com/tag/ideas/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>http://scottogletree.com/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/antarctica/</loc>
+    <loc>http://scottogletree.com/tag/antarctica/</loc>
     <lastmod>2015-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/cultural_resources/</loc>
+    <loc>http://scottogletree.com/publication/cultural_resources/</loc>
     <lastmod>2015-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/climate-change/</loc>
+    <loc>http://scottogletree.com/tag/climate-change/</loc>
     <lastmod>2015-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/cultural-heritage/</loc>
+    <loc>http://scottogletree.com/tag/cultural-heritage/</loc>
     <lastmod>2015-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/gregory-p-ramshaw/</loc>
+    <loc>http://scottogletree.com/author/gregory-p-ramshaw/</loc>
     <lastmod>2015-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/kathleen-e-krafte/</loc>
+    <loc>http://scottogletree.com/author/kathleen-e-krafte/</loc>
     <lastmod>2015-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://scottogletree.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>http://scottogletree.com/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>
