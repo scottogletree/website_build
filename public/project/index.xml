@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Scott Ogletree</title>
-    <link>http://scottogletree.com/project/</link>
-      <atom:link href="http://scottogletree.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://scottogletree.com/project/</link>
+      <atom:link href="https://scottogletree.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>https://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>http://scottogletree.com/project/</link>
+      <link>https://scottogletree.com/project/</link>
     </image>
     
     <item>
       <title>Greenspace and Telomere Length</title>
-      <link>http://scottogletree.com/project/greenspace_telomere/</link>
+      <link>https://scottogletree.com/project/greenspace_telomere/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/project/greenspace_telomere/</guid>
+      <guid>https://scottogletree.com/project/greenspace_telomere/</guid>
       <description>&lt;p&gt;We received a pilot project grant for $36,000 to investigate the relationship between greenspace and telomere length in the NHANES data. I led the conceptualization, writing, and submittal of this project to the Center for Human Health and the Environment at NC State. Along with Dr. Aaron Hipp, Dr. David Reif, and Dr. Lin Yang we will be looking at what can be learned about how our environment influences health at the level of DNA.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Project Description&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Greenspaces, composed of vegetation such as lawns, street trees, and parks, are associated with a variety of benefits to mental and physical health. The effect of green, vegetated landscapes on human health has been investigated from the level of specific health behaviors and outcomes, self-reported measures of well being, and quality of life, but little work has been able to identify biological mechanisms behind these associations. Our proposed project will investigate a pathway that greenspace environments might influence health at the cellular level, through the preservation of telomere length. Telomeres are structures on the ends of DNA and play a role in cell regeneration and aging. The length of telomeres can be impacted by stressors in the environment and could be an epigenetic factor in disease and individual health. Greenspace is an environmental condition that varies across residential areas and could influence telomere length through stress regulation, physical activity opportunities, air quality improvements, or other impacts. Little research has been done on the relationship that environmental greenspace may have on telomere length, and therefore disease, cellular health, and aging.
@@ -27,9 +27,9 @@ Findings of this retrospective study will inform the research gaps and aims to s
     
     <item>
       <title>PARC3 - Physical Activity and Recreation in Children in Communities of Color</title>
-      <link>http://scottogletree.com/project/parc/</link>
+      <link>https://scottogletree.com/project/parc/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/project/parc/</guid>
+      <guid>https://scottogletree.com/project/parc/</guid>
       <description>&lt;p&gt;As part of my postdoc at NC State I am working on the PARC3 - Physical Activity and Recreation in Children in Communities of Color led by Dr. Aaron Hipp and Dr. Myron Floyd. The project involves observations and surveys at parks in New York City and Raleigh-Durham. The bulk of the work was done in 2017 and 2018 and we are analyzing data and writing up our findings as part of my work.&lt;/p&gt;
 &lt;p&gt;The project is part of a broader effort studying physical activity that was funded by the Robert Wood Johnson Foundation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Project Description&lt;/strong&gt;&lt;/p&gt;
@@ -42,18 +42,18 @@ Findings of this retrospective study will inform the research gaps and aims to s
     
     <item>
       <title>Combining System for Observing Play and Recreation in Communities (SOPARC)</title>
-      <link>http://scottogletree.com/project/soparc_combine/</link>
+      <link>https://scottogletree.com/project/soparc_combine/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/project/soparc_combine/</guid>
+      <guid>https://scottogletree.com/project/soparc_combine/</guid>
       <description>&lt;p&gt;System for Observing Play and Recreation in Communities (SOPARC) is a tool for measuring activity in parks. Researchers have used SOPARC in a variety of setting and for this project we are combining the data from 3 separate studies done in New York City. Despite an established protocol each study adjusted the SOPARC tool to their project. We hope to be able to combine each dataset into one grand dataset to understand broader patterns in park use in NYC.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Project Ideas</title>
-      <link>http://scottogletree.com/project/internal-project/</link>
+      <link>https://scottogletree.com/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://scottogletree.com/project/internal-project/</guid>
+      <guid>https://scottogletree.com/project/internal-project/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Defining Greenspace 2020&lt;/p&gt;
