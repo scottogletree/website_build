@@ -28,7 +28,7 @@ publication_types:
 - "2"
 publishDate: "2022-12-31T00:00:00Z"
 # slides: example
-summary: The PAD-US-AR presents a reliable estimate for exposure to parks accessible for outdoor recreation..
+# summary: The PAD-US-AR presents a reliable estimate for exposure to parks accessible for outdoor recreation..
 tags:
 - Greenspace
 title: "Curated dataset of accessible and recreational parks in the U.S.: Comparison to greenspace metrics and sociodemographics"

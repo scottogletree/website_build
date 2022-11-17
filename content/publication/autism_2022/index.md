@@ -25,7 +25,7 @@ publication_types:
 - "2"
 publishDate: "2022-10-04T00:00:00Z"
 # slides: example
-summary:  Greenspace positively correlates with improved well-being in typically developing individuals. These data indicate the relationship between greenspace and well-being is more complex than expected and may depend on the diagnostic traits of the population studied.
+# summary:  Greenspace positively correlates with improved well-being in typically developing individuals. These data indicate the relationship between greenspace and well-being is more complex than expected and may depend on the diagnostic traits of the population studied.
 tags:
 - CSHCN 
 - autism
