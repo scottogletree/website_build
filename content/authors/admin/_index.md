@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: University of Edinburgh
   url: ""
-role: Research Fellow
+role: Lecturer in Landscape and Wellbeing
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -46,4 +46,4 @@ user_groups:
 - Visitors
 ---
 
-Scott is a researcher interested in connections between human well-being and the environment. He researches these connections using spatial and statistical tools to better understand how the natural world impacts people.
+Scott is a researcher and instructor interested in connections between human well-being and the environment. He researches these connections using spatial and statistical tools to better understand how the natural world impacts people.

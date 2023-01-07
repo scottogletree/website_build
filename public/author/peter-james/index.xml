@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter James | Scott Ogletree</title>
+    <link>https://scottogletree.com/author/peter-james/</link>
+      <atom:link href="https://scottogletree.com/author/peter-james/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter James</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <title>Peter James</title>
+      <link>https://scottogletree.com/author/peter-james/</link>
+    </image>
+    
+    <item>
+      <title>Curated dataset of accessible and recreational parks in the U.S.: Comparison to greenspace metrics and sociodemographics</title>
+      <link>https://scottogletree.com/publication/padus_ar/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://scottogletree.com/publication/padus_ar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

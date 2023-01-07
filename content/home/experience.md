@@ -29,12 +29,23 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
+  title = "Lecturer in Landscape and Wellbeing"
+  company = "University of Edinburgh"
+  company_url = ""
+  location = "Edinburgh"
+  date_start = "2023-01-07"
+  date_end = ""
+  description = """
+  Edinburgh School of Architecture and Landscape Architecture
+  """
+  
+[[experience]]
   title = "Research Fellow"
   company = "University of Edinburgh"
   company_url = ""
   location = "Edinburgh"
   date_start = "2021-06-21"
-  date_end = ""
+  date_end = "2023-01-06"
   description = """
   As part of the <a href="https://www.openspace.eca.ed.ac.uk" target="_blank">OPENspace Research Center</a> and <a href="https://cresh.org.uk/" target="_blank">CRESH</a> working on Woods In and Around Town (WIAT) projects.
   """
@@ -45,7 +56,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "North Carolina"
   date_start = "2021-06-19"
-  date_end = ""
+  date_end = "2023-01-06"
   description = """
   Continuing research on grant funded project "Investigating the impact of environmental greenspace exposure on telomere length"
   """

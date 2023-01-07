@@ -5,7 +5,7 @@
     <link>https://scottogletree.com/</link>
       <atom:link href="https://scottogletree.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Scott Ogletree</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Scott Ogletree</title>
@@ -74,6 +74,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Curated dataset of accessible and recreational parks in the U.S.: Comparison to greenspace metrics and sociodemographics</title>
+      <link>https://scottogletree.com/publication/padus_ar/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://scottogletree.com/publication/padus_ar/</guid>
+      <description></description>
     </item>
     
     <item>

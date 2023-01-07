@@ -5,12 +5,20 @@
     <link>https://scottogletree.com/publication/</link>
       <atom:link href="https://scottogletree.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://scottogletree.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Curated dataset of accessible and recreational parks in the U.S.: Comparison to greenspace metrics and sociodemographics</title>
+      <link>https://scottogletree.com/publication/padus_ar/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://scottogletree.com/publication/padus_ar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The complex relationship between greenspace and well-being in children with and without autism</title>
