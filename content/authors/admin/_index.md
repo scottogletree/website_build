@@ -46,4 +46,4 @@ user_groups:
 - Visitors
 ---
 
-Scott is a researcher and instructor interested in connections between human well-being and the environment. He researches these connections using spatial and statistical tools to better understand how the natural world impacts people.
+Scott is a Lecturer (*Assistant Professor in the USA system*) in the Edinburgh School of Architecture and Landscape Architecture at the Edinburgh College of Art, all within the University of Edinburgh. He is a researcher and instructor interested in connections between human well-being and the environment. He researches these connections using spatial and statistical tools to better understand how the natural world impacts people.
