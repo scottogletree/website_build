@@ -7,7 +7,7 @@
     <description>Scott Ogletree</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>https://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_3.png</url>
       <title>Scott Ogletree</title>
       <link>https://scottogletree.com/</link>
     </image>
@@ -74,6 +74,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Associations Between Neighborhood Child Opportunity and Physical Fitness for New York City Public School Youth</title>
+      <link>https://scottogletree.com/publication/zewdie_longitudinal/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://scottogletree.com/publication/zewdie_longitudinal/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -168,7 +176,8 @@ Findings of this retrospective study will inform the research gaps and aims to s
 &lt;li&gt;&lt;code&gt;postgres&lt;/code&gt; is the image we will download, this will be the latest version of PostGreSQL&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;This comes from &lt;a href=&#34;http://www.youtube.com/watch?v=iZDbENJrl4I&#34;&gt;www.youtube.com/watch?v=iZDbENJrl4I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;This comes from 
+&lt;a href=&#34;https://www.youtube.com/watch?v=iZDbENJrl4I&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.youtube.com/watch?v=iZDbENJrl4I&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Another option for the persistence data is just to assign a folder on the host to the default data location inside the container. It may look like &lt;code&gt;-v /[local folder]:/var/lib/postgresql/data&lt;/code&gt;
 &lt;ol&gt;
 &lt;li&gt;I found that the &lt;code&gt;/pgdata&lt;/code&gt; command above persisted but I don&amp;rsquo;t know where it lived on the host machine. It persisted between stopping the container but disappeared after a Docker app update, YMMV.&lt;/li&gt;
@@ -365,15 +374,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
@@ -467,7 +476,8 @@ Three
 &lt;p&gt;396 original tweets (43%)&lt;/p&gt;
 &lt;p&gt;534 retweets (57%)&lt;/p&gt;
 &lt;p&gt;The most retweeted tweet was:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;ldquo;RT @GeogJulie: Excited to launch our new book The Human Dimensions of Forest &amp;amp; Tree Health at the #ISSRM2018 today! @THAPBI @TreeHealthNews @CCRI_UK&amp;rdquo; &lt;a href=&#34;https://twitter.com/GeogJulie/status/1009185468397674497&#34;&gt;https://twitter.com/GeogJulie/status/1009185468397674497&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;RT @GeogJulie: Excited to launch our new book The Human Dimensions of Forest &amp;amp; Tree Health at the #ISSRM2018 today! @THAPBI @TreeHealthNews @CCRI_UK&amp;rdquo; 
+&lt;a href=&#34;https://twitter.com/GeogJulie/status/1009185468397674497&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/GeogJulie/status/1009185468397674497&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The most retweeted user was &lt;em&gt;@KathyEHalvorsen&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;The top 10 tweeters:&lt;/p&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;ISSRM_users.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 500px;&#34;/&gt;&lt;/div&gt;

@@ -7,7 +7,7 @@
     <description>database, spatial</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_2.png</url>
+      <url>https://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_3.png</url>
       <title>database, spatial</title>
       <link>https://scottogletree.com/tag/database-spatial/</link>
     </image>
@@ -40,7 +40,8 @@
 &lt;li&gt;&lt;code&gt;postgres&lt;/code&gt; is the image we will download, this will be the latest version of PostGreSQL&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;This comes from &lt;a href=&#34;http://www.youtube.com/watch?v=iZDbENJrl4I&#34;&gt;www.youtube.com/watch?v=iZDbENJrl4I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;This comes from 
+&lt;a href=&#34;https://www.youtube.com/watch?v=iZDbENJrl4I&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.youtube.com/watch?v=iZDbENJrl4I&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Another option for the persistence data is just to assign a folder on the host to the default data location inside the container. It may look like &lt;code&gt;-v /[local folder]:/var/lib/postgresql/data&lt;/code&gt;
 &lt;ol&gt;
 &lt;li&gt;I found that the &lt;code&gt;/pgdata&lt;/code&gt; command above persisted but I don&amp;rsquo;t know where it lived on the host machine. It persisted between stopping the container but disappeared after a Docker app update, YMMV.&lt;/li&gt;
