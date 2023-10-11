@@ -32,13 +32,16 @@ social:
   link: https://twitter.com/scottogletree
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=pImf5H4AAAAJ&hl=en&oi=ao
+  link: https://scholar.google.co.uk/citations?user=Jc0P0LMAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/ogletrees
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2607-6017
+- icon: user-circle 
+  icon_pack: fa
+  link: https://www.research.ed.ac.uk/en/persons/scott-ogletree-2
 superuser: true
 title: Scott Ogletree
 user_groups:
