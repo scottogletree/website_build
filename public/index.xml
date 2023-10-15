@@ -77,6 +77,27 @@
     </item>
     
     <item>
+      <title>Coding for Greenspace &amp; Telomere study</title>
+      <link>https://scottogletree.com/post/greenspace_telomere/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://scottogletree.com/post/greenspace_telomere/</guid>
+      <description>&lt;p&gt;Our study on the relationship between greenspace exposure and teloemere length - 
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.scitotenv.2023.167452&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The relationship between greenspace exposure and telomere length in the National Health and Nutrition Examination Survey&lt;/a&gt; - was recently published in &lt;em&gt;Science of the Total Environment&lt;/em&gt;. While our analysis relied on data that was restricted our code used could be useful to others perusing simliar work. Additionally, making our code available allows for others to see what exactly we did, in case that is helpful.&lt;/p&gt;
+&lt;p&gt;The National Health and Nutrition Examination Survey (NHANES) is a valuable data source providing a rich dataset on health in the USA. When you have research questions like ours, that depends on the location of participants, things get more difficult. To access this information requires application to the National Center for Health Statistics at the Centers for Disease Control. The process includes fully proposing your analysis, including the table shells that you will fill in (hopefully), before gaining access. For our work we chose to follow previous analysis strategies. Like any good researcher, once you get to see what your data looks like many new questions arise. We would hope to follow up our work to explore the data more but are limited in the time and money it takes to propose new analyses of the NHANES data.&lt;/p&gt;
+&lt;p&gt;Our R code used within the Research Data Center can be found 
+&lt;a href=&#34;https://github.com/ogletree-phd/project_greenspace-telomere&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The relationship between greenspace exposure and telomere length in the National Health and Nutrition Examination Survey</title>
+      <link>https://scottogletree.com/publication/greenspace_telomere/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://scottogletree.com/publication/greenspace_telomere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Longitudinal Associations Between Neighborhood Child Opportunity and Physical Fitness for New York City Public School Youth</title>
       <link>https://scottogletree.com/publication/zewdie_longitudinal/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
@@ -133,6 +154,21 @@
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://scottogletree.com/publication/ce_data/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Using secondary data to examine whether a programme of physical and social interventions in urban forests enhances community health and wellbeing.</title>
+      <link>https://scottogletree.com/project/wiat/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://scottogletree.com/project/wiat/</guid>
+      <description>&lt;p&gt;£240,622
+Feb 21 - Dec 23&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Research Fellow - June 2021 to December 2022; Co-I from January 2023&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This research addresses urgent questions faced by Scottish Forestry, alongside forestry agencies across the rest of the UK, Europe and internationally, who want to know how they can respond positively to global challenges for sustainability and human health while satisfying demands for more tree cover. In addition, public health policy-makers and planners, land managers, spatial planners and land development agencies and third sector organisations want to know how to invest scarce resources in ways that maximise benefits for people as well as planet.&lt;/p&gt;
+&lt;p&gt;So our focus is on urban forestry and how to provide better evidence of the contributions it can make to human wellbeing, child development and health equity. Our increasingly urban population is experiencing rising levels of mental illness and non-communicable disease; in addition, there is concern about the long-term effects of urban living on the kinds of environments children experience. There is evidence that access to natural environments such as woodlands can offer health benefits, especially in relation to mental wellbeing, and support healthy child development. In addition, it appears that more socially disadvantaged people may gain most from improved opportunities to visit and enjoy urban forests and other natural environments. We plan to provide evidence on the effectiveness of practical ways in which forestry can be used to benefit such populations. Our study examines whether existing programmes for urban forestry, such as Scottish Forestry&amp;rsquo;s (formerly known as Forestry Commission Scotland) Woods In and Around Towns (WIAT) programme, are effective in their aims of improving community wellbeing and quality of life by bringing neglected urban woodland near deprived urban communities into active management and working with local people to help them use their local woodland.&lt;/p&gt;
+&lt;p&gt;We are taking advantage of new opportunities to link existing population, health and child development data for a large number of people, together with data on WIAT projects that have been undertaken near where these people live at any point in a ten year period (2005-2015). This will be done in a secure and ethically approved manner so that there is no risk of individuals or their personal data being identifiable. It is an exciting opportunity because of the high quality data available across a representative sample of Scotland&amp;rsquo;s population; for the first time we can link information such as prescriptions data for anti-depressants, or child gross and fine motor skills development, with data on the location, cost, timing and extent of a national urban forestry programme. The results will indicate whether, for example, the extent of new footpaths and improved forest entrances, alongside activities to bring children and adults into the forest, makes a difference to health and child development outcomes for people living near the urban forest. We&amp;rsquo;ll look at whether benefits from WIAT are experienced only by those living very close to the forest, how long it takes for any benefits to appear after a WIAT project is completed, whether benefits are sustained and whether there are differences in benefit according to people&amp;rsquo;s age, gender, or socio-economic status.&lt;/p&gt;
+&lt;p&gt;Our findings will be published not only in academic journals but also in ways that are most helpful for different stakeholders, from forest and land managers and environmental agencies to health and child development policymakers. We will be working closely with Scottish Forestry and other public agencies across the UK and Europe to find the best ways of doing this. We&amp;rsquo;ll also make our findings accessible to local communities and the wider public. Ultimately, we hope that urban communities will benefit from better evidence as to how government departments and public and private agencies can support people&amp;rsquo;s access to urban forests to support their, and their children&amp;rsquo;s, wellbeing and quality of life.&lt;/p&gt;
+</description>
     </item>
     
     <item>

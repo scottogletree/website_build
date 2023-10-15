@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telomere Length | Scott Ogletree</title>
+    <link>https://scottogletree.com/tag/telomere-length/</link>
+      <atom:link href="https://scottogletree.com/tag/telomere-length/index.xml" rel="self" type="application/rss+xml" />
+    <description>Telomere Length</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_3.png</url>
+      <title>Telomere Length</title>
+      <link>https://scottogletree.com/tag/telomere-length/</link>
+    </image>
+    
+    <item>
+      <title>The relationship between greenspace exposure and telomere length in the National Health and Nutrition Examination Survey</title>
+      <link>https://scottogletree.com/publication/greenspace_telomere/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://scottogletree.com/publication/greenspace_telomere/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,33 @@
     <link>https://scottogletree.com/author/scott-ogletree/</link>
       <atom:link href="https://scottogletree.com/author/scott-ogletree/index.xml" rel="self" type="application/rss+xml" />
     <description>Scott Ogletree</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://scottogletree.com/images/icon_hu2b9cc5b7fa65526660959abbc390ca92_13336_512x512_fill_lanczos_center_3.png</url>
       <title>Scott Ogletree</title>
       <link>https://scottogletree.com/author/scott-ogletree/</link>
     </image>
+    
+    <item>
+      <title>Coding for Greenspace &amp; Telomere study</title>
+      <link>https://scottogletree.com/post/greenspace_telomere/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://scottogletree.com/post/greenspace_telomere/</guid>
+      <description>&lt;p&gt;Our study on the relationship between greenspace exposure and teloemere length - 
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.scitotenv.2023.167452&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The relationship between greenspace exposure and telomere length in the National Health and Nutrition Examination Survey&lt;/a&gt; - was recently published in &lt;em&gt;Science of the Total Environment&lt;/em&gt;. While our analysis relied on data that was restricted our code used could be useful to others perusing simliar work. Additionally, making our code available allows for others to see what exactly we did, in case that is helpful.&lt;/p&gt;
+&lt;p&gt;The National Health and Nutrition Examination Survey (NHANES) is a valuable data source providing a rich dataset on health in the USA. When you have research questions like ours, that depends on the location of participants, things get more difficult. To access this information requires application to the National Center for Health Statistics at the Centers for Disease Control. The process includes fully proposing your analysis, including the table shells that you will fill in (hopefully), before gaining access. For our work we chose to follow previous analysis strategies. Like any good researcher, once you get to see what your data looks like many new questions arise. We would hope to follow up our work to explore the data more but are limited in the time and money it takes to propose new analyses of the NHANES data.&lt;/p&gt;
+&lt;p&gt;Our R code used within the Research Data Center can be found 
+&lt;a href=&#34;https://github.com/ogletree-phd/project_greenspace-telomere&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The relationship between greenspace exposure and telomere length in the National Health and Nutrition Examination Survey</title>
+      <link>https://scottogletree.com/publication/greenspace_telomere/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://scottogletree.com/publication/greenspace_telomere/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Longitudinal Associations Between Neighborhood Child Opportunity and Physical Fitness for New York City Public School Youth</title>
